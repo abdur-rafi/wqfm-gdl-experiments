@@ -1,0 +1,15 @@
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+01
+Running WQFM Tree for 01...
+Input file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/01/g_trees-raxml-sqlen-25-disco-rooted-cleaned.tre
+Consensus file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/01/cons-25.greedy.tree
+Output file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/01/g_trees-raxml-sqlen-25-wqfm-tree.tre

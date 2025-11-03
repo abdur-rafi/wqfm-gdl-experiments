@@ -1,0 +1,1201 @@
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+01
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/01/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 9442200
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=4, 93=5, 94=6, 95=7, 96=8, 97=9, 98=10, 10=11, 11=12, 99=89, 12=13, 13=14, 14=90, 15=15, 16=16, 17=17, 18=18, 19=19, 1=20, 2=21, 3=22, 4=23, 5=24, 6=25, 7=26, 8=27, 9=28, 20=29, 21=30, 22=31, 23=32, 24=33, 25=34, 26=35, 27=36, 28=91, 29=37, 30=38, 31=39, 32=40, 33=41, 34=42, 35=43, 36=44, 37=45, 38=46, 39=47, 40=48, 41=49, 42=92, 43=50, 44=51, 45=52, 46=53, 47=54, 48=55, 49=56, 50=57, 51=58, 52=59, 53=60, 54=61, 55=62, 56=63, 57=64, 58=65, 59=66, 60=67, 61=93, 62=94, 63=68, 64=69, 65=70, 66=95, 67=96, 68=71, 69=72, 70=73, 71=74, 72=75, 73=76, 74=77, 75=78, 76=79, 77=80, 78=81, 79=82, 100=83, 80=84, 81=99, 82=98, 83=97, 84=85, 85=86, 86=87, 87=88}
+{0=88, 1=89, 2=90, 3=91, 4=92, 5=93, 6=94, 7=95, 8=96, 9=97, 10=98, 11=10, 12=11, 13=12, 14=13, 15=15, 16=16, 17=17, 18=18, 19=19, 20=1, 21=2, 22=3, 23=4, 24=5, 25=6, 26=7, 27=8, 28=9, 29=20, 30=21, 31=22, 32=23, 33=24, 34=25, 35=26, 36=27, 37=29, 38=30, 39=31, 40=32, 41=33, 42=34, 43=35, 44=36, 45=37, 46=38, 47=39, 48=40, 49=41, 50=43, 51=44, 52=45, 53=46, 54=47, 55=48, 56=49, 57=50, 58=51, 59=52, 60=53, 61=54, 62=55, 63=56, 64=57, 65=58, 66=59, 67=60, 68=63, 69=64, 70=65, 71=68, 72=69, 73=70, 74=71, 75=72, 76=73, 77=74, 78=75, 79=76, 80=77, 81=78, 82=79, 83=100, 84=80, 85=84, 86=85, 87=86, 88=87, 89=99, 90=14, 91=28, 92=42, 93=61, 94=62, 95=66, 96=67, 97=83, 98=82, 99=81}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+((((63,(58,19)),((93,20),((25,31),(52,47)))),(((2,(5,4)),(7,((12,3),(10,((6,9),(8,(1,11))))))),((((41,33),(17,39)),((18,51),(76,(68,15)))),((91,(36,(94,30))),(77,(97,((16,71),(44,(23,50))))))))),(((37,38),(((82,62),(88,81)),((67,42),(61,(83,((99,14),(28,66))))))),(((49,89),(57,(96,32))),(((75,(79,(87,(90,21)))),((24,65),((70,(40,86)),(34,(35,(69,55)))))),((98,54),((((46,85),(48,22)),((59,84),(73,74))),((78,(72,64)),(((43,13),(100,(92,95))),(80,((53,(26,56)),(45,(29,(60,27)))))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/01/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 759337 ms ==> 12 minutes and 39 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+02
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/02/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 9732972
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=98, 92=3, 93=4, 94=5, 95=99, 96=6, 97=7, 10=8, 98=9, 11=10, 99=11, 12=12, 13=13, 14=14, 15=15, 16=16, 17=17, 18=18, 19=19, 1=20, 2=21, 3=22, 4=23, 5=24, 6=25, 7=26, 8=27, 9=28, 20=29, 21=30, 22=31, 23=32, 24=33, 25=34, 26=35, 27=36, 28=37, 29=38, 30=39, 31=40, 32=41, 33=42, 34=43, 35=44, 36=45, 37=46, 38=47, 39=48, 40=49, 41=50, 42=51, 43=52, 44=53, 45=54, 46=55, 47=56, 48=57, 49=58, 50=59, 51=60, 52=61, 53=62, 54=63, 55=64, 56=65, 57=66, 58=67, 59=68, 60=69, 61=70, 62=71, 63=72, 64=73, 65=74, 66=75, 67=76, 68=77, 69=78, 70=79, 71=80, 72=81, 73=82, 74=83, 75=84, 76=85, 77=86, 78=87, 79=88, 100=89, 80=90, 81=91, 82=92, 83=93, 84=94, 85=95, 86=96, 87=97}
+{0=88, 1=89, 2=90, 3=92, 4=93, 5=94, 6=96, 7=97, 8=10, 9=98, 10=11, 11=99, 12=12, 13=13, 14=14, 15=15, 16=16, 17=17, 18=18, 19=19, 20=1, 21=2, 22=3, 23=4, 24=5, 25=6, 26=7, 27=8, 28=9, 29=20, 30=21, 31=22, 32=23, 33=24, 34=25, 35=26, 36=27, 37=28, 38=29, 39=30, 40=31, 41=32, 42=33, 43=34, 44=35, 45=36, 46=37, 47=38, 48=39, 49=40, 50=41, 51=42, 52=43, 53=44, 54=45, 55=46, 56=47, 57=48, 58=49, 59=50, 60=51, 61=52, 62=53, 63=54, 64=55, 65=56, 66=57, 67=58, 68=59, 69=60, 70=61, 71=62, 72=63, 73=64, 74=65, 75=66, 76=67, 77=68, 78=69, 79=70, 80=71, 81=72, 82=73, 83=74, 84=75, 85=76, 86=77, 87=78, 88=79, 89=100, 90=80, 91=81, 92=82, 93=83, 94=84, 95=85, 96=86, 97=87, 98=91, 99=95}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+(((((44,(58,(69,(73,43)))),(10,(31,(41,46)))),((74,((4,(26,27)),(2,(66,68)))),((62,(32,19)),((6,20),((60,(63,35)),(53,22)))))),(((24,21),(18,50)),((14,(48,(17,(56,67)))),(((52,(51,38)),((65,75),(71,36))),((5,57),(((33,54),(9,(7,49))),((((29,37),(1,61)),(12,(39,((11,76),(42,28))))),((72,15),(13,(25,(8,3))))))))))),((((34,59),(23,45)),((30,70),((55,(16,40)),(47,64)))),(((87,80),((95,(88,91)),(78,(99,93)))),((((97,(79,84)),(90,(82,96))),(94,(81,(89,92)))),((86,83),(100,(85,(98,77))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/02/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 572552 ms ==> 9 minutes and 32 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+03
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/03/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 9123051
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=98, 93=4, 94=99, 95=5, 96=6, 97=7, 98=8, 10=9, 99=10, 11=11, 12=12, 13=13, 14=14, 15=15, 16=16, 17=17, 18=18, 19=19, 1=20, 2=21, 3=22, 4=23, 5=24, 6=25, 7=26, 8=27, 9=28, 20=29, 21=30, 22=31, 23=32, 24=33, 25=34, 26=35, 27=36, 28=37, 29=38, 30=39, 31=40, 32=41, 33=42, 34=43, 35=44, 36=45, 37=46, 38=47, 39=48, 40=49, 41=50, 42=51, 43=52, 44=53, 45=54, 46=55, 47=56, 48=57, 49=58, 50=59, 51=60, 52=61, 53=62, 54=63, 55=64, 56=65, 57=66, 58=67, 59=68, 60=69, 61=70, 62=71, 63=72, 64=73, 65=74, 66=75, 67=76, 68=77, 69=78, 70=79, 71=80, 72=81, 73=82, 74=83, 75=84, 76=85, 77=86, 78=87, 79=88, 100=89, 80=90, 81=91, 82=92, 83=93, 84=94, 85=95, 86=96, 87=97}
+{0=88, 1=89, 2=90, 3=91, 4=93, 5=95, 6=96, 7=97, 8=98, 9=10, 10=99, 11=11, 12=12, 13=13, 14=14, 15=15, 16=16, 17=17, 18=18, 19=19, 20=1, 21=2, 22=3, 23=4, 24=5, 25=6, 26=7, 27=8, 28=9, 29=20, 30=21, 31=22, 32=23, 33=24, 34=25, 35=26, 36=27, 37=28, 38=29, 39=30, 40=31, 41=32, 42=33, 43=34, 44=35, 45=36, 46=37, 47=38, 48=39, 49=40, 50=41, 51=42, 52=43, 53=44, 54=45, 55=46, 56=47, 57=48, 58=49, 59=50, 60=51, 61=52, 62=53, 63=54, 64=55, 65=56, 66=57, 67=58, 68=59, 69=60, 70=61, 71=62, 72=63, 73=64, 74=65, 75=66, 76=67, 77=68, 78=69, 79=70, 80=71, 81=72, 82=73, 83=74, 84=75, 85=76, 86=77, 87=78, 88=79, 89=100, 90=80, 91=81, 92=82, 93=83, 94=84, 95=85, 96=86, 97=87, 98=92, 99=94}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+((((10,3),((26,27),(19,((32,54),(9,(24,53)))))),(((31,(18,1)),(28,((4,46),(13,21)))),(((25,(8,20)),(55,(51,14))),(56,((47,(2,(36,22))),((57,12),((50,(11,(49,43))),(52,(((5,45),(37,30)),((40,35),(6,(23,(44,15))))))))))))),((41,((42,(33,38)),(39,(7,(16,(29,(34,(17,48)))))))),((((72,66),(78,(95,(60,84)))),(((89,(92,94)),(77,(64,(99,76)))),(68,(69,(82,(65,(67,70))))))),(((88,(91,62)),((98,96),(97,(71,80)))),((74,93),((100,(86,73)),((59,85),(81,((87,58),((83,(90,75)),(63,(79,61))))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/03/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 513971 ms ==> 8 minutes and 33 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+04
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/04/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 10033987
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=91, 93=4, 94=5, 95=6, 96=7, 97=8, 98=9, 10=10, 11=11, 99=12, 12=13, 13=14, 14=15, 15=16, 16=17, 17=95, 18=18, 19=19, 1=20, 2=21, 3=22, 4=23, 5=24, 6=25, 7=26, 8=27, 9=28, 20=29, 21=30, 22=31, 23=32, 24=92, 25=93, 26=33, 27=34, 28=35, 29=36, 30=37, 31=94, 32=38, 33=39, 34=40, 35=41, 36=42, 37=43, 38=44, 39=45, 40=46, 41=47, 42=48, 43=49, 44=50, 45=51, 46=52, 47=96, 48=53, 49=54, 50=97, 51=55, 52=56, 53=57, 54=58, 55=98, 56=59, 57=60, 58=61, 59=62, 60=63, 61=64, 62=65, 63=66, 64=67, 65=68, 66=69, 67=70, 68=71, 69=72, 70=73, 71=74, 72=75, 73=76, 74=77, 75=78, 76=79, 77=80, 78=81, 79=82, 100=83, 80=84, 81=85, 82=86, 83=99, 84=87, 85=88, 86=89, 87=90}
+{0=88, 1=89, 2=90, 3=91, 4=93, 5=94, 6=95, 7=96, 8=97, 9=98, 10=10, 11=11, 12=99, 13=12, 14=13, 15=14, 16=15, 17=16, 18=18, 19=19, 20=1, 21=2, 22=3, 23=4, 24=5, 25=6, 26=7, 27=8, 28=9, 29=20, 30=21, 31=22, 32=23, 33=26, 34=27, 35=28, 36=29, 37=30, 38=32, 39=33, 40=34, 41=35, 42=36, 43=37, 44=38, 45=39, 46=40, 47=41, 48=42, 49=43, 50=44, 51=45, 52=46, 53=48, 54=49, 55=51, 56=52, 57=53, 58=54, 59=56, 60=57, 61=58, 62=59, 63=60, 64=61, 65=62, 66=63, 67=64, 68=65, 69=66, 70=67, 71=68, 72=69, 73=70, 74=71, 75=72, 76=73, 77=74, 78=75, 79=76, 80=77, 81=78, 82=79, 83=100, 84=80, 85=81, 86=82, 87=84, 88=85, 89=86, 90=87, 91=92, 92=24, 93=25, 94=31, 95=17, 96=47, 97=50, 98=55, 99=83}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+((((43,87),(1,(((44,(26,91)),(20,(16,6))),(93,(5,(84,(60,(73,76)))))))),((((34,95),(45,(57,67))),((18,(58,4)),(46,(32,(11,(35,53)))))),((62,((86,72),((50,55),((83,17),(88,47))))),(((69,13),(38,(10,(94,3)))),((42,33),(23,((90,48),(37,(39,(28,(82,14))))))))))),(((78,(52,(54,8))),(((98,100),(99,(97,96))),((70,80),((19,(85,(71,21))),(75,((15,81),(79,30))))))),(((51,(61,27)),((63,29),(22,(77,(36,41))))),((92,(25,(24,(89,31)))),((64,(7,49)),((59,(9,2)),(66,((40,68),(12,(74,(56,65)))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/04/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 405691 ms ==> 6 minutes and 45 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+05
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/05/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 10205294
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=4, 93=5, 94=6, 95=7, 96=8, 97=9, 10=10, 98=11, 11=12, 99=13, 12=14, 13=15, 14=16, 15=17, 16=18, 17=19, 18=95, 19=20, 1=21, 2=22, 3=23, 4=24, 5=25, 6=26, 7=27, 8=28, 9=29, 20=30, 21=31, 22=32, 23=33, 24=34, 25=35, 26=36, 27=37, 28=38, 29=97, 30=39, 31=40, 32=41, 33=42, 34=43, 35=44, 36=45, 37=46, 38=47, 39=48, 40=49, 41=98, 42=50, 43=51, 44=52, 45=53, 46=54, 47=55, 48=56, 49=57, 50=58, 51=59, 52=60, 53=61, 54=62, 55=99, 56=63, 57=64, 58=96, 59=65, 60=66, 61=67, 62=68, 63=69, 64=70, 65=71, 66=72, 67=73, 68=74, 69=75, 70=76, 71=77, 72=78, 73=79, 74=80, 75=81, 76=82, 77=83, 78=84, 79=85, 100=86, 80=87, 81=88, 82=89, 83=90, 84=91, 85=92, 86=93, 87=94}
+{0=88, 1=89, 2=90, 3=91, 4=92, 5=93, 6=94, 7=95, 8=96, 9=97, 10=10, 11=98, 12=11, 13=99, 14=12, 15=13, 16=14, 17=15, 18=16, 19=17, 20=19, 21=1, 22=2, 23=3, 24=4, 25=5, 26=6, 27=7, 28=8, 29=9, 30=20, 31=21, 32=22, 33=23, 34=24, 35=25, 36=26, 37=27, 38=28, 39=30, 40=31, 41=32, 42=33, 43=34, 44=35, 45=36, 46=37, 47=38, 48=39, 49=40, 50=42, 51=43, 52=44, 53=45, 54=46, 55=47, 56=48, 57=49, 58=50, 59=51, 60=52, 61=53, 62=54, 63=56, 64=57, 65=59, 66=60, 67=61, 68=62, 69=63, 70=64, 71=65, 72=66, 73=67, 74=68, 75=69, 76=70, 77=71, 78=72, 79=73, 80=74, 81=75, 82=76, 83=77, 84=78, 85=79, 86=100, 87=80, 88=81, 89=82, 90=83, 91=84, 92=85, 93=86, 94=87, 95=18, 96=58, 97=29, 98=41, 99=55}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+(((((79,(50,44)),((62,(74,2)),(27,((48,8),(57,(33,34)))))),((41,(29,(88,55))),((66,(67,(60,(22,47)))),((11,73),((39,64),(35,(53,(9,30)))))))),(((94,(99,(90,93))),((92,95),(96,(91,(89,(97,(98,100))))))),((56,(51,86)),(82,((61,(4,76)),((36,(15,26)),(16,(40,(14,45))))))))),((((63,38),(78,(83,(42,28)))),(((32,12),(65,(7,85))),((59,(17,70)),((69,19),(5,80))))),(((25,(43,1)),((58,18),((13,(6,(81,10))),((75,37),(77,72))))),((54,3),((24,(71,(52,46))),(87,(68,(31,(20,(21,(23,(49,84))))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/05/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 594309 ms ==> 9 minutes and 54 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+06
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/06/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 9695601
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=19, 92=20, 93=21, 94=22, 95=23, 96=24, 97=3, 98=25, 10=26, 11=27, 99=28, 12=4, 13=29, 14=30, 15=31, 16=32, 17=33, 18=34, 19=35, 1=36, 2=37, 3=38, 4=39, 5=40, 6=41, 7=42, 8=95, 9=43, 20=44, 21=45, 22=46, 23=47, 24=48, 25=96, 26=49, 27=97, 28=50, 29=51, 30=52, 31=53, 32=54, 33=5, 34=55, 35=6, 36=56, 37=57, 38=58, 39=59, 40=60, 41=61, 42=62, 43=7, 44=63, 45=64, 46=65, 47=8, 48=66, 49=67, 50=68, 51=69, 52=9, 53=10, 54=11, 55=98, 56=70, 57=71, 58=72, 59=73, 60=12, 61=74, 62=99, 63=75, 64=76, 65=13, 66=77, 67=78, 68=79, 69=14, 70=80, 71=15, 72=81, 73=82, 74=83, 75=84, 76=85, 77=16, 78=86, 79=87, 100=88, 80=89, 81=90, 82=91, 83=92, 84=17, 85=93, 86=94, 87=18}
+{0=88, 1=89, 2=90, 3=97, 4=12, 5=33, 6=35, 7=43, 8=47, 9=52, 10=53, 11=54, 12=60, 13=65, 14=69, 15=71, 16=77, 17=84, 18=87, 19=91, 20=92, 21=93, 22=94, 23=95, 24=96, 25=98, 26=10, 27=11, 28=99, 29=13, 30=14, 31=15, 32=16, 33=17, 34=18, 35=19, 36=1, 37=2, 38=3, 39=4, 40=5, 41=6, 42=7, 43=9, 44=20, 45=21, 46=22, 47=23, 48=24, 49=26, 50=28, 51=29, 52=30, 53=31, 54=32, 55=34, 56=36, 57=37, 58=38, 59=39, 60=40, 61=41, 62=42, 63=44, 64=45, 65=46, 66=48, 67=49, 68=50, 69=51, 70=56, 71=57, 72=58, 73=59, 74=61, 75=63, 76=64, 77=66, 78=67, 79=68, 80=70, 81=72, 82=73, 83=74, 84=75, 85=76, 86=78, 87=79, 88=100, 89=80, 90=81, 91=82, 92=83, 93=85, 94=86, 95=8, 96=25, 97=27, 98=55, 99=62}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+((((96,28),(((95,(17,23)),(46,(11,(80,(13,78))))),((81,(22,(20,57))),((86,(10,(7,66))),(63,(100,(59,68))))))),((87,53),((19,((32,(26,(36,34))),((27,55),(62,(8,(88,25)))))),(((9,(74,75)),(50,(91,56))),((98,21),((58,85),(82,(41,(83,42))))))))),((70,(((47,60),(52,(37,(30,79)))),((84,(77,12)),(69,((33,(97,65)),(54,(90,(71,(35,(89,43)))))))))),(((5,1),(3,(6,(2,4)))),(((76,(38,92)),(31,(93,14))),((72,((16,24),(73,29))),((94,(44,(45,64))),(((48,18),((61,67),(39,15))),(99,(49,(40,51))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/06/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 562831 ms ==> 9 minutes and 22 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+07
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/07/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 9898494
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=4, 93=5, 94=6, 95=7, 96=8, 97=9, 98=10, 10=11, 99=12, 11=13, 12=14, 13=15, 14=16, 15=17, 16=18, 17=19, 18=20, 19=21, 1=22, 2=23, 3=24, 4=25, 5=26, 6=27, 7=28, 8=29, 9=30, 20=31, 21=32, 22=33, 23=34, 24=87, 25=35, 26=36, 27=37, 28=38, 29=94, 30=39, 31=40, 32=41, 33=99, 34=42, 35=43, 36=44, 37=45, 38=46, 39=88, 40=89, 41=47, 42=48, 43=49, 44=50, 45=51, 46=52, 47=53, 48=54, 49=55, 50=56, 51=57, 52=58, 53=90, 54=91, 55=59, 56=60, 57=61, 58=62, 59=95, 60=63, 61=64, 62=92, 63=65, 64=96, 65=66, 66=67, 67=68, 68=69, 69=98, 70=70, 71=71, 72=72, 73=73, 74=74, 75=93, 76=97, 77=75, 78=76, 79=77, 100=78, 80=79, 81=80, 82=81, 83=82, 84=83, 85=84, 86=85, 87=86}
+{0=88, 1=89, 2=90, 3=91, 4=92, 5=93, 6=94, 7=95, 8=96, 9=97, 10=98, 11=10, 12=99, 13=11, 14=12, 15=13, 16=14, 17=15, 18=16, 19=17, 20=18, 21=19, 22=1, 23=2, 24=3, 25=4, 26=5, 27=6, 28=7, 29=8, 30=9, 31=20, 32=21, 33=22, 34=23, 35=25, 36=26, 37=27, 38=28, 39=30, 40=31, 41=32, 42=34, 43=35, 44=36, 45=37, 46=38, 47=41, 48=42, 49=43, 50=44, 51=45, 52=46, 53=47, 54=48, 55=49, 56=50, 57=51, 58=52, 59=55, 60=56, 61=57, 62=58, 63=60, 64=61, 65=63, 66=65, 67=66, 68=67, 69=68, 70=70, 71=71, 72=72, 73=73, 74=74, 75=77, 76=78, 77=79, 78=100, 79=80, 80=81, 81=82, 82=83, 83=84, 84=85, 85=86, 86=87, 87=24, 88=39, 89=40, 90=53, 91=54, 92=62, 93=75, 94=29, 95=59, 96=64, 97=76, 98=69, 99=33}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+((((74,((68,86),(4,((18,19),(15,92))))),(1,(((49,(7,(55,36))),(23,(6,((8,57),(91,(58,80)))))),((73,26),((43,13),(30,(84,10))))))),(((35,((22,32),(44,(12,(72,17))))),((11,(16,38)),(9,(34,(50,77))))),((67,((54,(51,45)),(39,(40,53)))),((62,(75,24)),((89,69),((76,29),(64,59))))))),(((98,((99,(96,93)),(97,(94,(100,95))))),(37,((42,83),((90,27),((20,(31,56)),((14,41),(5,70))))))),((((25,47),(82,52)),(65,(2,(28,(46,48))))),(81,(88,(((33,60),(61,87)),(66,((71,(21,78)),((63,79),(3,85))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/07/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 626509 ms ==> 10 minutes and 26 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+08
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/08/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 9747597
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=4, 93=5, 94=6, 95=7, 96=8, 97=9, 10=10, 98=11, 99=12, 11=13, 12=14, 13=15, 14=16, 15=17, 16=18, 17=95, 18=19, 19=20, 1=21, 2=22, 3=23, 4=24, 5=25, 6=26, 7=27, 8=28, 9=29, 20=30, 21=31, 22=32, 23=33, 24=34, 25=96, 26=35, 27=86, 28=36, 29=37, 30=38, 31=39, 32=40, 33=41, 34=42, 35=43, 36=44, 37=45, 38=46, 39=47, 40=48, 41=49, 42=87, 43=50, 44=51, 45=52, 46=88, 47=89, 48=53, 49=54, 50=55, 51=56, 52=57, 53=58, 54=97, 55=59, 56=90, 57=83, 58=60, 59=61, 60=62, 61=63, 62=64, 63=65, 64=91, 65=66, 66=98, 67=84, 68=67, 69=68, 70=85, 71=69, 72=70, 73=71, 74=72, 75=73, 76=92, 77=74, 78=75, 79=76, 100=77, 80=78, 81=79, 82=93, 83=94, 84=99, 85=80, 86=81, 87=82}
+{0=88, 1=89, 2=90, 3=91, 4=92, 5=93, 6=94, 7=95, 8=96, 9=97, 10=10, 11=98, 12=99, 13=11, 14=12, 15=13, 16=14, 17=15, 18=16, 19=18, 20=19, 21=1, 22=2, 23=3, 24=4, 25=5, 26=6, 27=7, 28=8, 29=9, 30=20, 31=21, 32=22, 33=23, 34=24, 35=26, 36=28, 37=29, 38=30, 39=31, 40=32, 41=33, 42=34, 43=35, 44=36, 45=37, 46=38, 47=39, 48=40, 49=41, 50=43, 51=44, 52=45, 53=48, 54=49, 55=50, 56=51, 57=52, 58=53, 59=55, 60=58, 61=59, 62=60, 63=61, 64=62, 65=63, 66=65, 67=68, 68=69, 69=71, 70=72, 71=73, 72=74, 73=75, 74=77, 75=78, 76=79, 77=100, 78=80, 79=81, 80=85, 81=86, 82=87, 83=57, 84=67, 85=70, 86=27, 87=42, 88=46, 89=47, 90=56, 91=64, 92=76, 93=82, 94=83, 95=17, 96=25, 97=54, 98=66, 99=84}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+((((32,31),(((54,(66,17)),(89,(25,84))),((47,56),((83,(76,27)),(42,(46,(64,82))))))),((63,((33,(28,71)),((23,30),(86,(96,(78,94)))))),((((4,10),(8,13)),(16,(2,(11,9)))),((5,6),(14,((15,7),(12,(1,3)))))))),(((45,((73,(37,39)),((90,35),(51,21)))),((81,(38,((68,50),(98,29)))),(24,(74,(26,(53,(75,93))))))),(((87,58),((55,61),((20,(52,48)),(77,72)))),((34,(43,80)),((100,60),((18,(79,(97,(85,91)))),(92,((88,(57,(67,70))),((41,(62,(44,(40,65)))),((99,49),((95,(22,19)),(69,(36,59)))))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/08/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 542281 ms ==> 9 minutes and 2 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+09
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/09/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 10037048
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=4, 93=5, 94=96, 95=6, 96=7, 97=8, 10=9, 98=10, 11=11, 99=12, 12=13, 13=14, 14=15, 15=16, 16=17, 17=18, 18=19, 19=20, 1=21, 2=22, 3=23, 4=24, 5=25, 6=26, 7=27, 8=28, 9=29, 20=30, 21=31, 22=32, 23=33, 24=34, 25=35, 26=36, 27=37, 28=38, 29=39, 30=40, 31=41, 32=42, 33=43, 34=44, 35=45, 36=46, 37=47, 38=48, 39=49, 40=50, 41=51, 42=52, 43=53, 44=54, 45=55, 46=56, 47=57, 48=97, 49=58, 50=59, 51=60, 52=98, 53=61, 54=62, 55=63, 56=64, 57=65, 58=66, 59=67, 60=68, 61=69, 62=70, 63=71, 64=72, 65=73, 66=74, 67=75, 68=76, 69=95, 70=77, 71=78, 72=79, 73=80, 74=81, 75=82, 76=83, 77=84, 78=85, 79=86, 100=87, 80=88, 81=89, 82=99, 83=90, 84=91, 85=92, 86=93, 87=94}
+{0=88, 1=89, 2=90, 3=91, 4=92, 5=93, 6=95, 7=96, 8=97, 9=10, 10=98, 11=11, 12=99, 13=12, 14=13, 15=14, 16=15, 17=16, 18=17, 19=18, 20=19, 21=1, 22=2, 23=3, 24=4, 25=5, 26=6, 27=7, 28=8, 29=9, 30=20, 31=21, 32=22, 33=23, 34=24, 35=25, 36=26, 37=27, 38=28, 39=29, 40=30, 41=31, 42=32, 43=33, 44=34, 45=35, 46=36, 47=37, 48=38, 49=39, 50=40, 51=41, 52=42, 53=43, 54=44, 55=45, 56=46, 57=47, 58=49, 59=50, 60=51, 61=53, 62=54, 63=55, 64=56, 65=57, 66=58, 67=59, 68=60, 69=61, 70=62, 71=63, 72=64, 73=65, 74=66, 75=67, 76=68, 77=70, 78=71, 79=72, 80=73, 81=74, 82=75, 83=76, 84=77, 85=78, 86=79, 87=100, 88=80, 89=81, 90=83, 91=84, 92=85, 93=86, 94=87, 95=69, 96=94, 97=48, 98=52, 99=82}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 9, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+(((59,(57,(46,8))),(((79,(47,51)),((97,(22,93)),((64,43),(30,(73,87))))),((13,20),((25,(16,((27,37),((49,62),(33,42))))),(((41,21),(72,(39,96))),((70,71),(18,(56,55)))))))),(((((29,(32,67)),(44,(83,68))),(78,(100,(26,(91,(4,(92,45))))))),(((81,76),(66,(84,86))),((11,(19,(60,(7,61)))),((75,(99,36)),((85,35),((74,9),(23,5))))))),((10,((95,28),(88,94))),(15,(((63,((38,31),(80,17))),((34,14),(90,(40,54)))),((2,(1,3)),(((24,69),((48,52),(89,82))),((65,(77,12)),(98,(6,(50,(58,53))))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/09/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 998658 ms ==> 16 minutes and 38 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+10
+mode = Command line [1.0*ws - 1.0*wv]
+Using no annotations for branches
+Python Engine: python3
+Quartet Score level: 0
+================= **** ========== Running wQFM v1.3 ============== **** ====================
+Reading from file <100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/10/250-sqQuartets.txt> done.
+Initial-Num-Quartets = 9509852
+Running with partition score mode = Command line [1.0*ws - 1.0*wv]
+100
+{88=0, 89=1, 90=2, 91=3, 92=4, 93=5, 94=6, 95=7, 96=8, 97=9, 10=10, 98=11, 99=12, 11=13, 12=14, 13=15, 14=16, 15=17, 16=18, 17=19, 18=20, 19=21, 1=22, 2=23, 3=24, 4=25, 5=26, 6=27, 7=28, 8=29, 9=30, 20=31, 21=32, 22=33, 23=34, 24=35, 25=36, 26=37, 27=38, 28=39, 29=40, 30=41, 31=42, 32=43, 33=98, 34=44, 35=45, 36=46, 37=47, 38=48, 39=96, 40=49, 41=50, 42=51, 43=52, 44=99, 45=53, 46=54, 47=55, 48=56, 49=57, 50=58, 51=59, 52=97, 53=60, 54=61, 55=62, 56=63, 57=64, 58=65, 59=66, 60=67, 61=68, 62=69, 63=70, 64=71, 65=72, 66=73, 67=74, 68=75, 69=76, 70=77, 71=78, 72=79, 73=80, 74=81, 75=82, 76=83, 77=84, 78=85, 79=86, 100=87, 80=88, 81=89, 82=90, 83=91, 84=92, 85=93, 86=94, 87=95}
+{0=88, 1=89, 2=90, 3=91, 4=92, 5=93, 6=94, 7=95, 8=96, 9=97, 10=10, 11=98, 12=99, 13=11, 14=12, 15=13, 16=14, 17=15, 18=16, 19=17, 20=18, 21=19, 22=1, 23=2, 24=3, 25=4, 26=5, 27=6, 28=7, 29=8, 30=9, 31=20, 32=21, 33=22, 34=23, 35=24, 36=25, 37=26, 38=27, 39=28, 40=29, 41=30, 42=31, 43=32, 44=34, 45=35, 46=36, 47=37, 48=38, 49=40, 50=41, 51=42, 52=43, 53=45, 54=46, 55=47, 56=48, 57=49, 58=50, 59=51, 60=53, 61=54, 62=55, 63=56, 64=57, 65=58, 66=59, 67=60, 68=61, 69=62, 70=63, 71=64, 72=65, 73=66, 74=67, 75=68, 76=69, 77=70, 78=71, 79=72, 80=73, 81=74, 82=75, 83=76, 84=77, 85=78, 86=79, 87=100, 88=80, 89=81, 90=82, 91=83, 92=84, 93=85, 94=86, 95=87, 96=39, 97=52, 98=33, 99=44}
+Total Num-Taxa = 100
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 1, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 2, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 8, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 3, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 4, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 5, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 6, ALPHA: 1.0, BETA: 1.0
+mode = Command line [1.0*ws - 1.0*wv] LEVEL: 7, ALPHA: 1.0, BETA: 1.0
+
+
+[L 49.] FMRunner: final tree return
+((((49,85),(42,37)),((((27,56),(48,((58,91),(35,(31,95))))),((71,(98,(92,(59,50)))),(84,((33,(88,44)),((69,64),(70,(25,78))))))),(((43,54),((52,(39,89)),(79,(32,83)))),(81,(51,((96,63),((55,28),(47,(100,(40,(87,(93,62)))))))))))),((46,((60,(26,(29,67))),(41,(90,(97,75))))),(((((19,2),(16,6)),((12,(11,(9,13))),((5,20),(14,1)))),((15,7),((3,17),(22,((10,18),(21,(4,8))))))),((61,((38,82),(24,(94,86)))),((74,(45,36)),((34,(66,(80,(77,(23,72))))),((57,(53,(73,68))),(99,(76,(65,30))))))))));
+>-> Successfully written to output-file 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/10/g_trees-raxml-sqlen-250-wqfm-2020.tre
+
+Time taken = 351357 ms ==> 5 minutes and 51 seconds.
+================= **** ======================== **** ====================
+No annotations used.
+(0.004123711340206186,0.004123711340206186,0.004123711340206186)

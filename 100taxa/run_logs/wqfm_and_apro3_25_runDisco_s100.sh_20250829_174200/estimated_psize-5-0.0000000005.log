@@ -1,0 +1,3789 @@
+01
+Skipping 01, e2500_apro-cleaned.tre already exists and is not empty.
+02
+Skipping 02, e2500_apro-cleaned.tre already exists and is not empty.
+03
+Skipping 03, e2500_apro-cleaned.tre already exists and is not empty.
+04
+Skipping 04, e2500_apro-cleaned.tre already exists and is not empty.
+05
+Skipping 05, e2500_apro-cleaned.tre already exists and is not empty.
+06
+Skipping 06, e2500_apro-cleaned.tre already exists and is not empty.
+07
+Skipping 07, e2500_apro-cleaned.tre already exists and is not empty.
+08
+Skipping 08, e2500_apro-cleaned.tre already exists and is not empty.
+09
+Skipping 09, e2500_apro-cleaned.tre already exists and is not empty.
+10
+Skipping 10, e2500_apro-cleaned.tre already exists and is not empty.
+01
+Skipping WQFM Tree for 01: Output '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/01/g_trees-raxml-sqlen-25-wqfm-tree.tre' already exists and is not empty.
+02
+Skipping WQFM Tree for 02: Output '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/02/g_trees-raxml-sqlen-25-wqfm-tree.tre' already exists and is not empty.
+03
+Skipping WQFM Tree for 03: Output '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/03/g_trees-raxml-sqlen-25-wqfm-tree.tre' already exists and is not empty.
+04
+Skipping WQFM Tree for 04: Output '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/04/g_trees-raxml-sqlen-25-wqfm-tree.tre' already exists and is not empty.
+05
+Running WQFM Tree for 05...
+Input file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/05/g_trees-raxml-sqlen-25-disco-rooted-cleaned.tre
+Consensus file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/05/cons-25.greedy.tree
+Output file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/05/g_trees-raxml-sqlen-25-wqfm-tree.tre
+Comp graph nodes count : 165132
+Internal nodes count : 71282
+taxa count : 100
+Gene trees count : 999
+Level: 1
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+#iterations: 2
+Level: 2
+swaps size : 48
+Total taxon count : 48
+Cg : 2.3283064365386963E-10
+swaps size : 48
+Total taxon count : 48
+Cg : -1.862645149230957E-9
+#iterations: 1
+Level: 3
+swaps size : 30
+Total taxon count : 30
+Cg : -1.1641532182693481E-10
+#iterations: 0
+Level: 4
+swaps size : 10
+Total taxon count : 10
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : 5.4569682106375694E-12
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : 3.865352482534945E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : -5.684341886080801E-13
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -302.09659959647456
+swaps size : 5
+Total taxon count : 5
+Cg : -2.842170943040401E-14
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -72.62017662079728
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 22
+Total taxon count : 22
+Cg : -1.0186340659856796E-10
+swaps size : 22
+Total taxon count : 22
+Cg : -8.731149137020111E-11
+#iterations: 1
+Level: 5
+swaps size : 10
+Total taxon count : 10
+Cg : 7.275957614183426E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 8
+Total taxon count : 8
+Cg : -2.2737367544323206E-13
+#iterations: 0
+Level: 7
+swaps size : 7
+Total taxon count : 7
+Cg : 1.8189894035458565E-12
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -26.84363727412385
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -92.43908405642932
+swaps size : 5
+Total taxon count : 5
+Cg : 7.105427357601002E-14
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -7.872313322412587
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 14
+Total taxon count : 14
+Cg : -9.094947017729282E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 1.0231815394945443E-12
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 11
+Total taxon count : 11
+Cg : -2.7284841053187847E-12
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -32.31313521399585
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 9
+Total taxon count : 9
+Cg : -4.888534022029489E-12
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -24.76621366484003
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 8
+swaps size : 6
+Total taxon count : 7
+Cg : -135.96806102141056
+swaps size : 7
+Total taxon count : 7
+Cg : 1.4210854715202004E-13
+#iterations: 1
+Level: 9
+swaps size : 5
+Total taxon count : 6
+Cg : -60.69736195057149
+swaps size : 6
+Total taxon count : 6
+Cg : 1.9895196601282805E-13
+#iterations: 1
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -51.67780474946963
+swaps size : 5
+Total taxon count : 5
+Cg : -4.973799150320701E-14
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -11.74579256929886
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 20
+Total taxon count : 20
+Cg : 2.9103830456733704E-11
+#iterations: 0
+Level: 4
+swaps size : 10
+Total taxon count : 10
+Cg : -5.4569682106375694E-12
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : -4.092726157978177E-12
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 1.7053025658242404E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 2.2737367544323206E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -67.25638049328676
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 12
+Total taxon count : 12
+Cg : 5.4569682106375694E-12
+#iterations: 0
+Level: 5
+swaps size : 11
+Total taxon count : 11
+Cg : -5.4569682106375694E-12
+#iterations: 0
+Level: 6
+swaps size : 10
+Total taxon count : 10
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 7
+swaps size : 9
+Total taxon count : 9
+Cg : 5.002220859751105E-12
+#iterations: 0
+Level: 8
+swaps size : 6
+Total taxon count : 7
+Cg : -982.086062314754
+swaps size : 7
+Total taxon count : 7
+Cg : 1.2505552149377763E-12
+#iterations: 1
+Level: 9
+swaps size : 5
+Total taxon count : 6
+Cg : -412.14453059109934
+swaps size : 6
+Total taxon count : 6
+Cg : 1.1368683772161603E-12
+#iterations: 1
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -285.3229746499915
+swaps size : 5
+Total taxon count : 5
+Cg : -1.9895196601282805E-13
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -51.744648967445
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -12.60491819079974
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 54
+Total taxon count : 54
+Cg : 2.3283064365386963E-10
+swaps size : 54
+Total taxon count : 54
+Cg : -1.862645149230957E-9
+swaps size : 54
+Total taxon count : 54
+Cg : -9.313225746154785E-10
+#iterations: 2
+Level: 3
+swaps size : 27
+Total taxon count : 27
+Cg : 0.0
+#iterations: 0
+Level: 4
+swaps size : 10
+Total taxon count : 10
+Cg : -5.4569682106375694E-12
+#iterations: 0
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : -4.092726157978177E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 2.8421709430404007E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -6.986286305302201
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : 1.1368683772161603E-12
+#iterations: 0
+Level: 6
+swaps size : 4
+Total taxon count : 5
+Cg : -189.61324721377952
+swaps size : 5
+Total taxon count : 5
+Cg : 1.2789769243681803E-13
+#iterations: 1
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -48.03217029719694
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 19
+Total taxon count : 19
+Cg : 5.093170329928398E-11
+#iterations: 0
+Level: 5
+swaps size : 9
+Total taxon count : 9
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : 2.2737367544323206E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : 9.094947017729282E-13
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -42.15881544250348
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 12
+Total taxon count : 12
+Cg : -2.7284841053187847E-12
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -2.2737367544323206E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : 6.821210263296962E-13
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -162.7611642322412
+swaps size : 5
+Total taxon count : 5
+Cg : 1.1368683772161603E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -35.91236068895658
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -1.3073986337985843E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 6
+Cg : -67.7460871538332
+swaps size : 6
+Total taxon count : 6
+Cg : 1.1368683772161603E-13
+#iterations: 1
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -27.7731380340258
+swaps size : 5
+Total taxon count : 5
+Cg : -3.552713678800501E-15
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -7.0266458755488035
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 29
+Total taxon count : 29
+Cg : -2.9103830456733704E-11
+#iterations: 0
+Level: 4
+swaps size : 10
+Total taxon count : 10
+Cg : 9.094947017729282E-12
+#iterations: 0
+Level: 5
+swaps size : 1
+Total taxon count : 4
+Cg : -20.461070844049686
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -7.73070496506989E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 6
+Cg : -898.1619714948139
+swaps size : 6
+Total taxon count : 6
+Cg : 0.0
+swaps size : 6
+Total taxon count : 6
+Cg : 2.2737367544323206E-13
+#iterations: 2
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -568.6716124522643
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -71.79784506273859
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 21
+Total taxon count : 21
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 9
+Total taxon count : 9
+Cg : 6.366462912410498E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -52.45702855064562
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 8.526512829121202E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -42.368085281239914
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 14
+Total taxon count : 14
+Cg : 1.8189894035458565E-12
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 7.958078640513122E-13
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -20.165933368356527
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 10
+Total taxon count : 10
+Cg : -3.183231456205249E-12
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 8
+Total taxon count : 8
+Cg : 1.1368683772161603E-13
+#iterations: 0
+Level: 8
+swaps size : 7
+Total taxon count : 7
+Cg : -2.8421709430404007E-13
+#iterations: 0
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -14.959348574740872
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 9
+swaps size : 5
+Total taxon count : 5
+Cg : -4.973799150320701E-14
+#iterations: 0
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -9.28849007900429
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+
+Elapsed Time taken = 168009 ms ==> 2 minutes and 48 seconds.
+CPU time used: 2 minutes, 47 seconds
+06
+Running WQFM Tree for 06...
+Input file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/06/g_trees-raxml-sqlen-25-disco-rooted-cleaned.tre
+Consensus file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/06/cons-25.greedy.tree
+Output file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/06/g_trees-raxml-sqlen-25-wqfm-tree.tre
+Comp graph nodes count : 171690
+Internal nodes count : 76543
+taxa count : 100
+Gene trees count : 995
+Level: 1
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 30
+Total taxon count : 30
+Cg : -2.3283064365386963E-10
+#iterations: 0
+Level: 3
+swaps size : 15
+Total taxon count : 15
+Cg : -2.1827872842550278E-11
+#iterations: 0
+Level: 4
+swaps size : 6
+Total taxon count : 6
+Cg : -1.8189894035458565E-12
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : -1.3642420526593924E-12
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -37.55655809859189
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 11
+Total taxon count : 11
+Cg : -5.4569682106375694E-12
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 1.7053025658242404E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -118.14322183098582
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : -3.637978807091713E-12
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : 2.2737367544323206E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -45.22791960093882
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -29.276349765258487
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 17
+Total taxon count : 17
+Cg : -2.1827872842550278E-11
+#iterations: 0
+Level: 4
+swaps size : 10
+Total taxon count : 10
+Cg : 7.275957614183426E-12
+#iterations: 0
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -101.0672199865862
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : -3.410605131648481E-13
+#iterations: 0
+Level: 6
+swaps size : 4
+Total taxon count : 5
+Cg : -200.7582117706239
+swaps size : 5
+Total taxon count : 5
+Cg : -1.4210854715202004E-13
+#iterations: 1
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -40.20310613682101
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 9
+Total taxon count : 9
+Cg : -3.637978807091713E-12
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : -3.979039320256561E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -18.50867426782918
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : -6.536993168992922E-13
+#iterations: 0
+Level: 6
+swaps size : 4
+Total taxon count : 5
+Cg : -81.22722445785806
+swaps size : 5
+Total taxon count : 5
+Cg : -1.1368683772161603E-13
+#iterations: 1
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -16.554395819360565
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 72
+Total taxon count : 72
+Cg : -5.587935447692871E-9
+swaps size : 72
+Total taxon count : 72
+Cg : -2.2351741790771484E-8
+#iterations: 1
+Level: 3
+swaps size : 46
+Total taxon count : 46
+Cg : -6.984919309616089E-10
+#iterations: 0
+Level: 4
+swaps size : 15
+Total taxon count : 15
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 9
+Total taxon count : 9
+Cg : -1.8189894035458565E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -119.72823846013509
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 3.865352482534945E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -86.86284223339729
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : -1.3642420526593924E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 9.094947017729282E-13
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : -8.526512829121202E-14
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -17.914791699925477
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 33
+Total taxon count : 33
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 11
+Total taxon count : 11
+Cg : -7.275957614183426E-12
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -1.8189894035458565E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : 1.5916157281026244E-12
+#iterations: 0
+Level: 8
+swaps size : 5
+Total taxon count : 5
+Cg : -5.684341886080802E-14
+#iterations: 0
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -40.07911560092987
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 1.8189894035458565E-12
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 24
+Total taxon count : 24
+Cg : -1.6007106751203537E-10
+#iterations: 0
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -96.40229676001923
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 7
+Total taxon count : 7
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 5
+Total taxon count : 5
+Cg : -5.684341886080802E-14
+#iterations: 0
+Level: 9
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 17
+Total taxon count : 17
+Cg : -1.4551915228366852E-11
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 6
+Cg : -886.9973624794749
+swaps size : 6
+Total taxon count : 6
+Cg : 1.1368683772161603E-13
+#iterations: 1
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -319.781948245454
+swaps size : 5
+Total taxon count : 5
+Cg : -1.7053025658242404E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -39.18415359119395
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 13
+Total taxon count : 13
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 11
+Total taxon count : 11
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 9
+swaps size : 10
+Total taxon count : 10
+Cg : -5.6843418860808015E-12
+#iterations: 0
+Level: 10
+swaps size : 8
+Total taxon count : 9
+Cg : -213.1326959800507
+swaps size : 9
+Total taxon count : 9
+Cg : 2.8421709430404007E-12
+swaps size : 9
+Total taxon count : 9
+Cg : -3.979039320256561E-13
+#iterations: 2
+Level: 11
+swaps size : 7
+Total taxon count : 8
+Cg : -152.8936557729735
+swaps size : 8
+Total taxon count : 8
+Cg : -2.5579538487363607E-13
+#iterations: 1
+Level: 12
+swaps size : 6
+Total taxon count : 7
+Cg : -106.23197589779765
+swaps size : 7
+Total taxon count : 7
+Cg : -1.7053025658242404E-13
+#iterations: 1
+Level: 13
+swaps size : 5
+Total taxon count : 6
+Cg : -81.41338881857055
+swaps size : 6
+Total taxon count : 6
+Cg : -1.2789769243681803E-13
+#iterations: 1
+Level: 14
+swaps size : 4
+Total taxon count : 5
+Cg : -32.75228516694037
+swaps size : 5
+Total taxon count : 5
+Cg : 1.4210854715202004E-14
+#iterations: 1
+Level: 15
+swaps size : 1
+Total taxon count : 4
+Cg : -9.73314557533981
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 28
+Total taxon count : 28
+Cg : 2.3283064365386963E-10
+#iterations: 0
+Level: 4
+swaps size : 12
+Total taxon count : 12
+Cg : -2.1827872842550278E-11
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -32.40517617008487
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 2.2737367544323206E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -61.3798850574713
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : 2.7284841053187847E-12
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -102.14212869055666
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 3.979039320256561E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -33.21711116119502
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 18
+Total taxon count : 18
+Cg : -3.637978807091713E-11
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 7.958078640513122E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -14.19114544459373
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 15
+Total taxon count : 15
+Cg : 7.275957614183426E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 12
+Total taxon count : 12
+Cg : 1.4551915228366852E-11
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : -2.0463630789890885E-12
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -286.5190569487986
+swaps size : 5
+Total taxon count : 5
+Cg : -3.979039320256561E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -51.93415963825451
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 8
+Total taxon count : 8
+Cg : -4.774847184307873E-12
+#iterations: 0
+Level: 8
+swaps size : 6
+Total taxon count : 7
+Cg : -345.018458725177
+swaps size : 7
+Total taxon count : 7
+Cg : -1.9326762412674725E-12
+#iterations: 1
+Level: 9
+swaps size : 5
+Total taxon count : 6
+Cg : -297.87062521769366
+swaps size : 6
+Total taxon count : 6
+Cg : -3.694822225952521E-13
+#iterations: 1
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -162.60536964472126
+swaps size : 5
+Total taxon count : 5
+Cg : 1.7053025658242404E-13
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -40.16844740508538
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+
+Elapsed Time taken = 141498 ms ==> 2 minutes and 21 seconds.
+CPU time used: 2 minutes, 20 seconds
+07
+Running WQFM Tree for 07...
+Input file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/07/g_trees-raxml-sqlen-25-disco-rooted-cleaned.tre
+Consensus file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/07/cons-25.greedy.tree
+Output file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/07/g_trees-raxml-sqlen-25-wqfm-tree.tre
+Comp graph nodes count : 167205
+Internal nodes count : 71490
+taxa count : 100
+Gene trees count : 1000
+Level: 1
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+#iterations: 2
+Level: 2
+swaps size : 59
+Total taxon count : 59
+Cg : 2.7939677238464355E-9
+swaps size : 59
+Total taxon count : 59
+Cg : 1.862645149230957E-9
+#iterations: 1
+Level: 3
+swaps size : 35
+Total taxon count : 35
+Cg : -2.9103830456733704E-10
+#iterations: 0
+Level: 4
+swaps size : 15
+Total taxon count : 15
+Cg : -1.4551915228366852E-11
+#iterations: 0
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 6
+Cg : -1047.6492932728652
+swaps size : 6
+Total taxon count : 6
+Cg : -1.9326762412674725E-12
+#iterations: 1
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -409.531128117914
+swaps size : 5
+Total taxon count : 5
+Cg : 2.2737367544323206E-13
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -104.33646258503414
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 9
+Total taxon count : 9
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -2.7284841053187847E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : 6.821210263296962E-13
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -110.7300367130973
+swaps size : 5
+Total taxon count : 5
+Cg : 1.2789769243681803E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -9.01833144368851
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 22
+Total taxon count : 22
+Cg : -2.9103830456733704E-11
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -128.39508928571428
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 17
+Total taxon count : 17
+Cg : -2.1827872842550278E-11
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : -3.410605131648481E-13
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 12
+Total taxon count : 12
+Cg : -2.7284841053187847E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 5.684341886080802E-14
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 9
+Total taxon count : 9
+Cg : 3.410605131648481E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -5.396746031746041
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 8
+swaps size : 6
+Total taxon count : 7
+Cg : -74.26909863945548
+swaps size : 7
+Total taxon count : 7
+Cg : 3.694822225952521E-13
+swaps size : 7
+Total taxon count : 7
+Cg : -7.389644451905042E-13
+#iterations: 2
+Level: 9
+swaps size : 5
+Total taxon count : 6
+Cg : -45.87068027210898
+swaps size : 6
+Total taxon count : 6
+Cg : 8.526512829121202E-14
+#iterations: 1
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -23.14096206538169
+swaps size : 5
+Total taxon count : 5
+Cg : 4.263256414560601E-14
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -6.44396908068787
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 26
+Total taxon count : 26
+Cg : -2.9103830456733704E-11
+#iterations: 0
+Level: 4
+swaps size : 7
+Total taxon count : 7
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 1.1368683772161603E-13
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 1
+Total taxon count : 4
+Cg : -26.62408088235295
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 21
+Total taxon count : 21
+Cg : -7.275957614183426E-11
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 1.8758328224066645E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 18
+Total taxon count : 18
+Cg : -5.820766091346741E-11
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -53.632633053221284
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 16
+Total taxon count : 16
+Cg : 7.275957614183426E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 1.1368683772161603E-13
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 13
+Total taxon count : 13
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 5
+Total taxon count : 5
+Cg : 1.1368683772161603E-13
+#iterations: 0
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -22.07691409897283
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 8
+swaps size : 10
+Total taxon count : 10
+Cg : 3.410605131648481E-12
+#iterations: 0
+Level: 9
+swaps size : 8
+Total taxon count : 9
+Cg : -545.4289215686231
+swaps size : 9
+Total taxon count : 9
+Cg : 1.2505552149377763E-12
+#iterations: 1
+Level: 10
+swaps size : 7
+Total taxon count : 8
+Cg : -463.9295343137268
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-13
+swaps size : 8
+Total taxon count : 8
+Cg : 4.547473508864641E-13
+#iterations: 2
+Level: 11
+swaps size : 6
+Total taxon count : 7
+Cg : -329.6897321428565
+swaps size : 7
+Total taxon count : 7
+Cg : 2.6147972675971687E-12
+#iterations: 1
+Level: 12
+swaps size : 5
+Total taxon count : 6
+Cg : -185.69218403507236
+swaps size : 6
+Total taxon count : 6
+Cg : -1.0800249583553523E-12
+#iterations: 1
+Level: 13
+swaps size : 4
+Total taxon count : 5
+Cg : -88.49955138305322
+swaps size : 5
+Total taxon count : 5
+Cg : -5.684341886080802E-14
+#iterations: 1
+Level: 14
+swaps size : 1
+Total taxon count : 4
+Cg : -27.375211542950524
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 43
+Total taxon count : 43
+Cg : -2.3283064365386963E-10
+swaps size : 43
+Total taxon count : 43
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 16
+Total taxon count : 16
+Cg : -1.4551915228366852E-11
+#iterations: 0
+Level: 4
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 4
+swaps size : 14
+Total taxon count : 14
+Cg : -4.9112713895738125E-11
+#iterations: 0
+Level: 5
+swaps size : 1
+Total taxon count : 4
+Cg : -68.78929690998663
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 12
+Total taxon count : 12
+Cg : -1.6370904631912708E-11
+swaps size : 12
+Total taxon count : 12
+Cg : 1.546140993013978E-11
+#iterations: 1
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : -1.9895196601282805E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -0.1904505336617106
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 7
+Total taxon count : 7
+Cg : -1.4779288903810084E-12
+#iterations: 0
+Level: 8
+swaps size : 5
+Total taxon count : 6
+Cg : -178.38932790549214
+swaps size : 6
+Total taxon count : 6
+Cg : -5.684341886080801E-13
+#iterations: 1
+Level: 9
+swaps size : 4
+Total taxon count : 5
+Cg : -149.43061827221266
+swaps size : 5
+Total taxon count : 5
+Cg : -8.526512829121202E-14
+#iterations: 1
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -21.62833110974281
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 29
+Total taxon count : 29
+Cg : 0.0
+swaps size : 29
+Total taxon count : 29
+Cg : -2.3283064365386963E-10
+swaps size : 29
+Total taxon count : 29
+Cg : 5.820766091346741E-11
+#iterations: 2
+Level: 4
+swaps size : 15
+Total taxon count : 15
+Cg : 1.8189894035458565E-11
+#iterations: 0
+Level: 5
+swaps size : 9
+Total taxon count : 9
+Cg : -2.7284841053187847E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -6.821210263296962E-12
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -178.18647083865505
+swaps size : 5
+Total taxon count : 5
+Cg : -1.1368683772161603E-13
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -71.0722039773764
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -19.42504070881227
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -146.6954374201787
+swaps size : 5
+Total taxon count : 5
+Cg : -1.4210854715202004E-13
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -31.922447318007677
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 16
+Total taxon count : 16
+Cg : 2.9103830456733704E-11
+#iterations: 0
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 2.2737367544323206E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -29.085050007464034
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 12
+Total taxon count : 12
+Cg : 2.1827872842550278E-11
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : -1.3642420526593924E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -21.247748064743107
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -302.105500821018
+swaps size : 5
+Total taxon count : 5
+Cg : -2.842170943040401E-14
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -53.61418308702788
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : -3.410605131648481E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -7.8676974548440874
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+
+Elapsed Time taken = 143794 ms ==> 2 minutes and 23 seconds.
+CPU time used: 2 minutes, 23 seconds
+08
+Running WQFM Tree for 08...
+Input file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/08/g_trees-raxml-sqlen-25-disco-rooted-cleaned.tre
+Consensus file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/08/cons-25.greedy.tree
+Output file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/08/g_trees-raxml-sqlen-25-wqfm-tree.tre
+Comp graph nodes count : 169058
+Internal nodes count : 73586
+taxa count : 100
+Gene trees count : 999
+Level: 1
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 58
+Total taxon count : 58
+Cg : -4.656612873077393E-10
+swaps size : 58
+Total taxon count : 58
+Cg : -9.313225746154785E-10
+#iterations: 1
+Level: 3
+swaps size : 35
+Total taxon count : 35
+Cg : -4.656612873077393E-10
+#iterations: 0
+Level: 4
+swaps size : 17
+Total taxon count : 17
+Cg : 6.548361852765083E-11
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 14
+Total taxon count : 14
+Cg : -2.1827872842550278E-11
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 11
+Total taxon count : 11
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 7
+swaps size : 10
+Total taxon count : 10
+Cg : -3.637978807091713E-12
+#iterations: 0
+Level: 8
+swaps size : 9
+Total taxon count : 9
+Cg : 6.821210263296962E-12
+#iterations: 0
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -41.53832194342445
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 9
+swaps size : 6
+Total taxon count : 7
+Cg : -412.9470029239785
+swaps size : 7
+Total taxon count : 7
+Cg : -8.526512829121202E-13
+#iterations: 1
+Level: 10
+swaps size : 5
+Total taxon count : 6
+Cg : -370.00038249693904
+swaps size : 6
+Total taxon count : 6
+Cg : 4.547473508864641E-13
+#iterations: 1
+Level: 11
+swaps size : 4
+Total taxon count : 5
+Cg : -151.4499157444236
+swaps size : 5
+Total taxon count : 5
+Cg : -2.842170943040401E-14
+#iterations: 1
+Level: 12
+swaps size : 1
+Total taxon count : 4
+Cg : -46.77330096984201
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 20
+Total taxon count : 20
+Cg : -2.9103830456733704E-11
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 1.1368683772161603E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -55.659266565153246
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 15
+Total taxon count : 15
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : -6.821210263296962E-13
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 3.410605131648481E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -89.52158430232564
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 11
+Total taxon count : 11
+Cg : -1.8189894035458565E-12
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -74.90169573643402
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 9
+Total taxon count : 9
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 8
+swaps size : 8
+Total taxon count : 8
+Cg : 3.183231456205249E-12
+#iterations: 0
+Level: 9
+swaps size : 6
+Total taxon count : 6
+Cg : 5.968558980384842E-13
+#iterations: 0
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -74.5554371231696
+swaps size : 5
+Total taxon count : 5
+Cg : -7.105427357601002E-14
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -15.669204215116242
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -7.214956799095644
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 25
+Total taxon count : 25
+Cg : -2.9103830456733704E-11
+#iterations: 0
+Level: 4
+swaps size : 14
+Total taxon count : 14
+Cg : -1.4551915228366852E-11
+#iterations: 0
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -164.8645023125531
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 5
+Total taxon count : 6
+Cg : -667.3543118797905
+swaps size : 6
+Total taxon count : 6
+Cg : -1.9326762412674725E-12
+#iterations: 1
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -527.2724618917337
+swaps size : 5
+Total taxon count : 5
+Cg : -2.2737367544323206E-13
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -124.31961272881239
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : 3.183231456205249E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : -5.684341886080801E-13
+#iterations: 0
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -101.22545626777838
+swaps size : 5
+Total taxon count : 5
+Cg : -1.4210854715202004E-14
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -25.277567422317713
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 13
+Total taxon count : 13
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -294.7078441394443
+swaps size : 5
+Total taxon count : 5
+Cg : -3.979039320256561E-13
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -45.10809180559525
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-12
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -2.5011104298755527E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : -1.9895196601282805E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -27.19506340103132
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -1.338276947630554
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 44
+Total taxon count : 44
+Cg : -2.3283064365386963E-10
+#iterations: 0
+Level: 3
+swaps size : 14
+Total taxon count : 14
+Cg : 3.2741809263825417E-11
+#iterations: 0
+Level: 4
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 4
+swaps size : 12
+Total taxon count : 12
+Cg : 3.2741809263825417E-11
+#iterations: 0
+Level: 5
+swaps size : 10
+Total taxon count : 10
+Cg : 2.3646862246096134E-11
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -93.91322392001467
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 8
+Total taxon count : 8
+Cg : -4.092726157978177E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 7
+Cg : -966.063185143264
+swaps size : 7
+Total taxon count : 7
+Cg : -3.410605131648481E-12
+#iterations: 1
+Level: 8
+swaps size : 5
+Total taxon count : 6
+Cg : -556.7243287430001
+swaps size : 6
+Total taxon count : 6
+Cg : 0.0
+#iterations: 1
+Level: 9
+swaps size : 4
+Total taxon count : 5
+Cg : -301.60206407595996
+swaps size : 5
+Total taxon count : 5
+Cg : -2.8421709430404007E-13
+#iterations: 1
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -82.06261397220649
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 3
+swaps size : 32
+Total taxon count : 32
+Cg : 2.9103830456733704E-10
+swaps size : 32
+Total taxon count : 32
+Cg : -3.4924596548080444E-10
+#iterations: 1
+Level: 4
+swaps size : 20
+Total taxon count : 20
+Cg : -7.275957614183426E-11
+#iterations: 0
+Level: 5
+swaps size : 10
+Total taxon count : 10
+Cg : 5.4569682106375694E-12
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 2.2737367544323206E-13
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 1.9895196601282805E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -46.43854741749479
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : -2.1600499167107046E-12
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 12
+Total taxon count : 12
+Cg : 1.3642420526593924E-11
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -49.957414904783434
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 10
+Total taxon count : 10
+Cg : -1.3642420526593924E-12
+#iterations: 0
+Level: 7
+swaps size : 8
+Total taxon count : 9
+Cg : -659.3488990391845
+swaps size : 9
+Total taxon count : 9
+Cg : 3.637978807091713E-12
+#iterations: 1
+Level: 8
+swaps size : 7
+Total taxon count : 8
+Cg : -497.19206835299997
+swaps size : 8
+Total taxon count : 8
+Cg : -3.410605131648481E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -20.141290356067675
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 9
+swaps size : 5
+Total taxon count : 6
+Cg : -194.9807400743072
+swaps size : 6
+Total taxon count : 6
+Cg : 3.126388037344441E-13
+#iterations: 1
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -118.89826060878667
+swaps size : 5
+Total taxon count : 5
+Cg : 2.842170943040401E-14
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -33.49486429749588
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 14
+Total taxon count : 14
+Cg : -7.275957614183426E-12
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : 1.8189894035458565E-12
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : -2.8421709430404007E-12
+#iterations: 0
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -209.96753364940685
+swaps size : 5
+Total taxon count : 5
+Cg : -1.1368683772161603E-13
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -81.1880948575894
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 9
+Total taxon count : 9
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : 7.958078640513122E-13
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 6
+Cg : -599.7412813410048
+swaps size : 6
+Total taxon count : 6
+Cg : -6.252776074688882E-13
+#iterations: 1
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -187.71362490233705
+swaps size : 5
+Total taxon count : 5
+Cg : 3.410605131648481E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -63.24821838672251
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+
+Elapsed Time taken = 136053 ms ==> 2 minutes and 16 seconds.
+CPU time used: 2 minutes, 15 seconds
+09
+Running WQFM Tree for 09...
+Input file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/09/g_trees-raxml-sqlen-25-disco-rooted-cleaned.tre
+Consensus file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/09/cons-25.greedy.tree
+Output file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/09/g_trees-raxml-sqlen-25-wqfm-tree.tre
+Comp graph nodes count : 189572
+Internal nodes count : 77874
+taxa count : 100
+Gene trees count : 985
+Level: 1
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+#iterations: 2
+Level: 2
+swaps size : 32
+Total taxon count : 32
+Cg : 4.656612873077393E-10
+swaps size : 32
+Total taxon count : 32
+Cg : -5.820766091346741E-11
+#iterations: 1
+Level: 3
+swaps size : 21
+Total taxon count : 21
+Cg : -8.003553375601768E-11
+#iterations: 0
+Level: 4
+swaps size : 7
+Total taxon count : 7
+Cg : -1.3642420526593924E-12
+#iterations: 0
+Level: 5
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -23.524516908212604
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 16
+Total taxon count : 16
+Cg : -7.275957614183426E-12
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 7.389644451905042E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -20.034420289854914
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 11
+Total taxon count : 11
+Cg : 4.547473508864641E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : -6.821210263296962E-13
+#iterations: 0
+Level: 7
+swaps size : 8
+Total taxon count : 8
+Cg : -2.4442670110147446E-12
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -58.6552435587762
+swaps size : 5
+Total taxon count : 5
+Cg : -4.263256414560601E-14
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -15.035778985507246
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -60.497072933441025
+swaps size : 5
+Total taxon count : 5
+Cg : 1.4210854715202004E-14
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -18.199984064680706
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 13
+Total taxon count : 13
+Cg : -3.456079866737127E-11
+#iterations: 0
+Level: 4
+swaps size : 12
+Total taxon count : 12
+Cg : 2.000888343900442E-11
+#iterations: 0
+Level: 5
+swaps size : 1
+Total taxon count : 4
+Cg : -95.91264090177145
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 10
+Total taxon count : 10
+Cg : -1.6370904631912708E-11
+#iterations: 0
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : -2.5011104298755527E-11
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 7
+Cg : -1495.2641103059523
+swaps size : 7
+Total taxon count : 7
+Cg : 4.547473508864641E-12
+#iterations: 1
+Level: 8
+swaps size : 5
+Total taxon count : 6
+Cg : -709.9454307568432
+swaps size : 6
+Total taxon count : 6
+Cg : 2.2737367544323206E-13
+#iterations: 1
+Level: 9
+swaps size : 4
+Total taxon count : 5
+Cg : -310.7802033011286
+swaps size : 5
+Total taxon count : 5
+Cg : 2.8421709430404007E-13
+#iterations: 1
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -97.51764039855088
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -38.006099033816454
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 70
+Total taxon count : 70
+Cg : 1.862645149230957E-9
+swaps size : 70
+Total taxon count : 70
+Cg : -1.3969838619232178E-9
+swaps size : 70
+Total taxon count : 70
+Cg : 1.862645149230957E-9
+#iterations: 2
+Level: 3
+swaps size : 30
+Total taxon count : 30
+Cg : 1.4551915228366852E-10
+#iterations: 0
+Level: 4
+swaps size : 15
+Total taxon count : 15
+Cg : -1.0913936421275139E-11
+#iterations: 0
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -25.28261867296098
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 5
+swaps size : 11
+Total taxon count : 11
+Cg : 4.547473508864641E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 8
+Total taxon count : 8
+Cg : 4.547473508864641E-13
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : 8.526512829121202E-13
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -48.04229240427461
+swaps size : 5
+Total taxon count : 5
+Cg : -1.0658141036401503E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -21.877106486034634
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 17
+Total taxon count : 17
+Cg : 7.275957614183426E-12
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 1.0231815394945443E-12
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -3.8002719153388114
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 14
+Total taxon count : 14
+Cg : -3.637978807091713E-12
+#iterations: 0
+Level: 6
+swaps size : 10
+Total taxon count : 10
+Cg : 6.366462912410498E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : -8.526512829121202E-13
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 7
+Total taxon count : 7
+Cg : 1.5916157281026244E-12
+#iterations: 0
+Level: 8
+swaps size : 6
+Total taxon count : 6
+Cg : 2.5011104298755527E-12
+#iterations: 0
+Level: 9
+swaps size : 4
+Total taxon count : 5
+Cg : -257.87391641845466
+swaps size : 5
+Total taxon count : 5
+Cg : -2.2737367544323206E-13
+#iterations: 1
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -37.000759560806806
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 9.094947017729282E-13
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 3
+swaps size : 42
+Total taxon count : 42
+Cg : 3.4924596548080444E-10
+swaps size : 42
+Total taxon count : 42
+Cg : 3.4924596548080444E-10
+#iterations: 1
+Level: 4
+swaps size : 19
+Total taxon count : 19
+Cg : 7.275957614183426E-12
+#iterations: 0
+Level: 5
+swaps size : 6
+Total taxon count : 6
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 5.684341886080801E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -27.50395694289952
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 15
+Total taxon count : 15
+Cg : -1.8189894035458565E-11
+#iterations: 0
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -9.094947017729282E-13
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 8.526512829121202E-13
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 10
+Total taxon count : 10
+Cg : -2.7284841053187847E-12
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 7
+swaps size : 8
+Total taxon count : 8
+Cg : -2.5011104298755527E-12
+#iterations: 0
+Level: 8
+swaps size : 7
+Total taxon count : 7
+Cg : 1.4779288903810084E-12
+#iterations: 0
+Level: 9
+swaps size : 5
+Total taxon count : 6
+Cg : -209.54354812960767
+swaps size : 6
+Total taxon count : 6
+Cg : -1.9895196601282805E-13
+#iterations: 1
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -87.06006416594528
+swaps size : 5
+Total taxon count : 5
+Cg : 1.4210854715202004E-14
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -19.911989981151905
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 25
+Total taxon count : 25
+Cg : 8.731149137020111E-11
+swaps size : 25
+Total taxon count : 25
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 12
+Total taxon count : 12
+Cg : -1.4551915228366852E-11
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 2.2737367544323206E-13
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : -2.2737367544323206E-12
+#iterations: 0
+Level: 7
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 8
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 8
+swaps size : 5
+Total taxon count : 6
+Cg : -191.1768955512
+swaps size : 6
+Total taxon count : 6
+Cg : -5.115907697472721E-13
+#iterations: 1
+Level: 9
+swaps size : 4
+Total taxon count : 5
+Cg : -123.4005703721361
+swaps size : 5
+Total taxon count : 5
+Cg : 2.842170943040401E-14
+#iterations: 1
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -24.743167562723983
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 15
+Total taxon count : 15
+Cg : 2.000888343900442E-11
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 13
+Total taxon count : 13
+Cg : -1.6825651982799172E-11
+#iterations: 0
+Level: 7
+swaps size : 12
+Total taxon count : 12
+Cg : 9.094947017729282E-13
+#iterations: 0
+Level: 8
+swaps size : 11
+Total taxon count : 11
+Cg : -6.821210263296962E-12
+#iterations: 0
+Level: 9
+swaps size : 9
+Total taxon count : 10
+Cg : -486.6842783601644
+swaps size : 10
+Total taxon count : 10
+Cg : -7.844391802791506E-12
+#iterations: 1
+Level: 10
+swaps size : 8
+Total taxon count : 9
+Cg : -291.27385436680527
+swaps size : 9
+Total taxon count : 9
+Cg : -1.1368683772161603E-13
+swaps size : 9
+Total taxon count : 9
+Cg : 4.547473508864641E-13
+#iterations: 2
+Level: 11
+swaps size : 7
+Total taxon count : 8
+Cg : -207.75756943742024
+swaps size : 8
+Total taxon count : 8
+Cg : 7.105427357601002E-13
+#iterations: 1
+Level: 12
+swaps size : 6
+Total taxon count : 7
+Cg : -130.96910673756503
+swaps size : 7
+Total taxon count : 7
+Cg : -2.842170943040401E-14
+#iterations: 1
+Level: 13
+swaps size : 5
+Total taxon count : 6
+Cg : -80.1259857684181
+swaps size : 6
+Total taxon count : 6
+Cg : 4.973799150320701E-13
+#iterations: 1
+Level: 14
+swaps size : 4
+Total taxon count : 5
+Cg : -41.12287686725439
+swaps size : 5
+Total taxon count : 5
+Cg : 3.552713678800501E-14
+#iterations: 1
+Level: 15
+swaps size : 1
+Total taxon count : 4
+Cg : -8.598244858203854
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+
+Elapsed Time taken = 180953 ms ==> 3 minutes and 0 seconds.
+CPU time used: 3 minutes, 0 seconds
+10
+Running WQFM Tree for 10...
+Input file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/10/g_trees-raxml-sqlen-25-disco-rooted-cleaned.tre
+Consensus file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/10/cons-25.greedy.tree
+Output file: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000005.psize-50000000/10/g_trees-raxml-sqlen-25-wqfm-tree.tre
+Comp graph nodes count : 172414
+Internal nodes count : 72641
+taxa count : 100
+Gene trees count : 991
+Level: 1
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+swaps size : 100
+Total taxon count : 100
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 72
+Total taxon count : 72
+Cg : 2.3283064365386963E-9
+swaps size : 72
+Total taxon count : 72
+Cg : -2.7939677238464355E-9
+#iterations: 1
+Level: 3
+swaps size : 34
+Total taxon count : 34
+Cg : -4.656612873077393E-10
+#iterations: 0
+Level: 4
+swaps size : 16
+Total taxon count : 16
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : -3.410605131648481E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -14.680714939426224
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 11
+Total taxon count : 11
+Cg : -1.8189894035458565E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : 1.8189894035458565E-12
+#iterations: 0
+Level: 7
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 8
+swaps size : 7
+Total taxon count : 7
+Cg : -3.410605131648481E-13
+#iterations: 0
+Level: 9
+swaps size : 5
+Total taxon count : 6
+Cg : -182.69763212186032
+swaps size : 6
+Total taxon count : 6
+Cg : 2.8421709430404007E-13
+#iterations: 1
+Level: 10
+swaps size : 4
+Total taxon count : 5
+Cg : -80.12837511181422
+swaps size : 5
+Total taxon count : 5
+Cg : -1.4210854715202004E-13
+#iterations: 1
+Level: 11
+swaps size : 1
+Total taxon count : 4
+Cg : -16.804742558854407
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 20
+Total taxon count : 20
+Cg : -7.275957614183426E-12
+#iterations: 0
+Level: 5
+swaps size : 10
+Total taxon count : 10
+Cg : 7.275957614183426E-12
+#iterations: 0
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : 1.3642420526593924E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 1.4210854715202004E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -25.46353749698565
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : -1.0231815394945443E-12
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -107.5529639900332
+swaps size : 5
+Total taxon count : 5
+Cg : 2.842170943040401E-14
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -33.83282694317164
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 12
+Total taxon count : 12
+Cg : -2.7284841053187847E-12
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : 2.3874235921539366E-12
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : 8.526512829121202E-14
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -3.320314934107998
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 8
+Total taxon count : 8
+Cg : 1.0231815394945443E-12
+#iterations: 0
+Level: 7
+swaps size : 7
+Total taxon count : 7
+Cg : 5.684341886080802E-14
+#iterations: 0
+Level: 8
+swaps size : 5
+Total taxon count : 6
+Cg : -68.51206929298881
+swaps size : 6
+Total taxon count : 6
+Cg : -4.973799150320701E-14
+#iterations: 1
+Level: 9
+swaps size : 4
+Total taxon count : 5
+Cg : -22.938179257949397
+swaps size : 5
+Total taxon count : 5
+Cg : 7.105427357601002E-15
+#iterations: 1
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -7.52091037102525
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 40
+Total taxon count : 40
+Cg : -4.656612873077393E-10
+swaps size : 40
+Total taxon count : 40
+Cg : -3.4924596548080444E-10
+#iterations: 1
+Level: 4
+swaps size : 18
+Total taxon count : 18
+Cg : 1.4551915228366852E-11
+#iterations: 0
+Level: 5
+swaps size : 9
+Total taxon count : 9
+Cg : -5.4569682106375694E-12
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -92.89211076280043
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : -2.3874235921539366E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : -3.979039320256561E-13
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -126.37820407977817
+swaps size : 5
+Total taxon count : 5
+Cg : -2.842170943040401E-14
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -14.96548411400363
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 11
+Total taxon count : 11
+Cg : 1.3642420526593924E-12
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -26.15341547976007
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 9
+Total taxon count : 9
+Cg : 2.2737367544323206E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -21.808576772219986
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 6
+Total taxon count : 7
+Cg : -149.12710627009724
+swaps size : 7
+Total taxon count : 7
+Cg : 8.526512829121202E-13
+#iterations: 1
+Level: 8
+swaps size : 5
+Total taxon count : 6
+Cg : -100.96225687661205
+swaps size : 6
+Total taxon count : 6
+Cg : 4.121147867408581E-13
+#iterations: 1
+Level: 9
+swaps size : 4
+Total taxon count : 5
+Cg : -49.465730518579036
+swaps size : 5
+Total taxon count : 5
+Cg : 3.552713678800501E-14
+#iterations: 1
+Level: 10
+swaps size : 1
+Total taxon count : 4
+Cg : -11.221041467902458
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 24
+Total taxon count : 24
+Cg : -2.9103830456733704E-11
+#iterations: 0
+Level: 5
+swaps size : 10
+Total taxon count : 10
+Cg : -3.637978807091713E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : 9.094947017729282E-13
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -51.730617534370154
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 6
+swaps size : 7
+Total taxon count : 7
+Cg : 2.2737367544323206E-12
+#iterations: 0
+Level: 7
+swaps size : 6
+Total taxon count : 6
+Cg : -1.1368683772161603E-13
+#iterations: 0
+Level: 8
+swaps size : 4
+Total taxon count : 5
+Cg : -184.7291218472765
+swaps size : 5
+Total taxon count : 5
+Cg : -2.2737367544323206E-13
+#iterations: 1
+Level: 9
+swaps size : 1
+Total taxon count : 4
+Cg : -26.569940018849707
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 16
+Total taxon count : 16
+Cg : 3.637978807091713E-12
+#iterations: 0
+Level: 6
+swaps size : 5
+Total taxon count : 5
+Cg : -2.2737367544323206E-13
+#iterations: 0
+Level: 7
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 13
+Total taxon count : 13
+Cg : -6.366462912410498E-12
+#iterations: 0
+Level: 7
+swaps size : 1
+Total taxon count : 4
+Cg : -9.622661196139902
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 10
+Total taxon count : 11
+Cg : -1207.04366859944
+swaps size : 11
+Total taxon count : 11
+Cg : -6.366462912410498E-12
+swaps size : 11
+Total taxon count : 11
+Cg : -1.1823431123048067E-11
+#iterations: 2
+Level: 8
+swaps size : 9
+Total taxon count : 10
+Cg : -986.5163586507322
+swaps size : 10
+Total taxon count : 10
+Cg : 3.637978807091713E-12
+#iterations: 1
+Level: 9
+swaps size : 8
+Total taxon count : 9
+Cg : -812.3463762028657
+swaps size : 9
+Total taxon count : 9
+Cg : -3.865352482534945E-12
+swaps size : 9
+Total taxon count : 9
+Cg : -1.3642420526593924E-12
+#iterations: 2
+Level: 10
+swaps size : 7
+Total taxon count : 8
+Cg : -606.1613096823562
+swaps size : 8
+Total taxon count : 8
+Cg : 1.8189894035458565E-12
+#iterations: 1
+Level: 11
+swaps size : 6
+Total taxon count : 7
+Cg : -431.38395491425297
+swaps size : 7
+Total taxon count : 7
+Cg : -7.958078640513122E-13
+#iterations: 1
+Level: 12
+swaps size : 5
+Total taxon count : 6
+Cg : -264.27418038139893
+swaps size : 6
+Total taxon count : 6
+Cg : 1.3642420526593924E-12
+#iterations: 1
+Level: 13
+swaps size : 4
+Total taxon count : 5
+Cg : -114.6653552192819
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 1
+Level: 14
+swaps size : 1
+Total taxon count : 4
+Cg : -37.93038388128239
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 2
+swaps size : 30
+Total taxon count : 30
+Cg : 2.3283064365386963E-10
+#iterations: 0
+Level: 3
+swaps size : 14
+Total taxon count : 14
+Cg : 0.0
+#iterations: 0
+Level: 4
+swaps size : 6
+Total taxon count : 6
+Cg : 3.410605131648481E-12
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 6.821210263296962E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -45.44605541747245
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 4
+swaps size : 10
+Total taxon count : 10
+Cg : -1.000444171950221E-11
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -104.5349489091412
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 7
+Total taxon count : 7
+Cg : -1.7053025658242404E-12
+#iterations: 0
+Level: 6
+swaps size : 6
+Total taxon count : 6
+Cg : -2.842170943040401E-14
+#iterations: 0
+Level: 7
+swaps size : 5
+Total taxon count : 5
+Cg : -1.1368683772161603E-13
+#iterations: 0
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -3.299342377796215
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 3
+swaps size : 18
+Total taxon count : 18
+Cg : 1.4551915228366852E-11
+#iterations: 0
+Level: 4
+swaps size : 7
+Total taxon count : 7
+Cg : -5.4569682106375694E-12
+#iterations: 0
+Level: 5
+swaps size : 4
+Total taxon count : 5
+Cg : -696.5018057060306
+swaps size : 5
+Total taxon count : 5
+Cg : -1.1368683772161603E-13
+#iterations: 1
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -170.83583122667667
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 4
+swaps size : 13
+Total taxon count : 13
+Cg : -4.729372449219227E-11
+#iterations: 0
+Level: 5
+swaps size : 5
+Total taxon count : 5
+Cg : -3.410605131648481E-13
+#iterations: 0
+Level: 6
+swaps size : 1
+Total taxon count : 4
+Cg : -7.440913285983953
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 5
+swaps size : 10
+Total taxon count : 10
+Cg : -5.4569682106375694E-12
+#iterations: 0
+Level: 6
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 0
+Level: 6
+swaps size : 8
+Total taxon count : 8
+Cg : -4.547473508864641E-13
+#iterations: 0
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -280.6878761887564
+swaps size : 5
+Total taxon count : 5
+Cg : 1.4210854715202004E-13
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -26.663501038280955
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+Level: 7
+swaps size : 4
+Total taxon count : 5
+Cg : -112.89004755025883
+swaps size : 5
+Total taxon count : 5
+Cg : -9.947598300641403E-14
+#iterations: 1
+Level: 8
+swaps size : 1
+Total taxon count : 4
+Cg : -22.864154478151065
+swaps size : 0
+Total taxon count : 4
+Cg : 0.0
+#iterations: 1
+
+Elapsed Time taken = 145686 ms ==> 2 minutes and 25 seconds.
+CPU time used: 2 minutes, 25 seconds
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10

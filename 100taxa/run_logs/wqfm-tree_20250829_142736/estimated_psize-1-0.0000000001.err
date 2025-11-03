@@ -1,0 +1,160 @@
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/01/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/01/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/01/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/01/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/02/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/02/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/02/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/02/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/03/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/03/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/03/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/03/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/04/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/04/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/04/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/04/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/05/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/05/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/05/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/05/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/06/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/06/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/06/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/06/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/07/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/07/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/07/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/07/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/08/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/08/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/08/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/08/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/09/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/09/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/09/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/09/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/10/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 132: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/10/g_trees-raxml-sqlen-25-disco-decomp.tre: No such file or directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 367, in <module>
+    main(args)
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/disco.py", line 267, in main
+    with open(args.input, 'r') as fi, open(output, 'w') as fo:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/10/g_trees-raxml-sqlen-25-cleaned.tre'
+scripts/runDisco_s100.sh: line 154: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0000000001.psize-10000000/10/g_trees-raxml-sqlen-25-disco-rooted.tre: No such file or directory

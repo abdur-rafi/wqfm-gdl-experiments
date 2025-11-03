@@ -1,0 +1,50 @@
+01
+Skipping disco.py for 01: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/01/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 01 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/01/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 01: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/01/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 01 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/01/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+02
+Skipping disco.py for 02: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/02/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 02 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/02/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 02: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/02/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 02 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/02/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+03
+Skipping disco.py for 03: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/03/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 03 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/03/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 03: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/03/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 03 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/03/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+04
+Skipping disco.py for 04: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/04/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 04 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/04/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 04: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/04/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 04 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/04/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+05
+Skipping disco.py for 05: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/05/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 05 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/05/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 05: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/05/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 05 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/05/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+06
+Skipping disco.py for 06: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/06/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 06 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/06/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 06: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/06/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 06 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/06/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+07
+Skipping disco.py for 07: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/07/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 07 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/07/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 07: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/07/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 07 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/07/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+08
+Skipping disco.py for 08: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/08/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 08 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/08/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 08: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/08/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 08 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/08/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+09
+Skipping disco.py for 09: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/09/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 09 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/09/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 09: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/09/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 09 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/09/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.
+10
+Skipping disco.py for 10: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/10/g_trees-raxml-sqlen-50-disco-decomp.tre already exists.
+Skipping treeCleaner.py for 10 (disco): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/10/g_trees-raxml-sqlen-50-disco-decomp-cleaned.tre already exists.
+Skipping disco.py --no-decomp for 10: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/10/g_trees-raxml-sqlen-50-disco-rooted.tre already exists.
+Skipping treeCleaner.py for 10 (discoNoDecomp): 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-10000000/10/g_trees-raxml-sqlen-50-disco-rooted-cleaned.tre already exists.

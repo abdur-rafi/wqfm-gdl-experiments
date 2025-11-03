@@ -1,0 +1,270 @@
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/01/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/02/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/03/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/04/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/05/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/06/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/07/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/08/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/09/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Exception in thread "main" java.io.FileNotFoundException: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/10/g_trees-raxml-sqlen--disco-rooted-cleaned.tre (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at src.PreProcessing.GeneTrees.readTaxaNames(GeneTrees.java:72)
+	at src.PreProcessing.Preprocess.preprocess(Preprocess.java:20)
+	at src.Main.main(Main.java:110)
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+Error: Unable to access jarfile wQFM-v1.4.jar
+s100-scripts/runDisco_s100.sh: line 396: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/: Is a directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/01/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/01/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/02/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/02/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/03/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/03/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/04/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/04/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/05/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/05/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/06/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/06/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/07/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/07/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/08/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/08/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/09/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/09/g_trees-raxml-sqlen--wqfm-2020.tre'
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 46, in <module>
+    estimateTree = readNewickFile(options.estimate_tree)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/unrooted.py", line 28, in readNewickFile
+    f = open(file)
+        ^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/10/g_trees-raxml-sqlen--wqfm-2020.tre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./rfScoreCalculator/getFpFn.py", line 48, in <module>
+    estimateTree = parse_tree(readTreesFromRatchet(options.estimate_tree)[0])
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/system3/anaconda3/lib/python3.11/site-packages/spruce-1.0-py3.11.egg/spruce/mrp.py", line 424, in readTreesFromRatchet
+FileNotFoundError: [Errno 2] No such file or directory: '100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/10/g_trees-raxml-sqlen--wqfm-2020.tre'
+s100-scripts/runDisco_s100.sh: line 410: 100taxa/DOI-10-13012-b2idb-5721322_v1/estimated/ntaxa-100.dlrate-0.0.psize-50000000/: Is a directory
+Traceback (most recent call last):
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/rfAverager.py", line 17, in <module>
+    print('({})'.format(','.join(map(str, [sm[i] / count for i in range(len(sm))]))))
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/disk1/wqfm-tree-stuff/experiments/./scripts/rfAverager.py", line 17, in <listcomp>
+    print('({})'.format(','.join(map(str, [sm[i] / count for i in range(len(sm))]))))
+                                           ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
