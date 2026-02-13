@@ -55,6 +55,8 @@ consensusTreeTrueGt=$consensusTreePrefixTrueGt.greedy.tree
 # consensusTree=$astralOutputFile
 # consensusTree=$speciesTreeLabelCleaned
 outputFile="e${n}00-wqfm-gdl.tre"
+outputFile="e${n}00-wqfm-gdl-per-node-norm-fixed.tre"
+
 # outputFile="merged_gene_trees-wqfm-tree.tre"
 # outputFile="g_trees-with-gt3species-wqfm-tree.tre"
 
@@ -75,7 +77,7 @@ quartetFileTrue=sqQuartetsTrue.txt
 wscores="e${n}00_wqfm_scores_updated.txt"
 wscores="e${n}00_wqfm_tree_sp.txt"
 wscores="wqfm-tree-pro-scores.txt"
-wscores="wqfm-tree-gdl-scores.txt"
+wscores="wqfm-tree-gdl-per-node-norm-fixed-scores.txt"
 
 ascores="apro-3-scores.txt"
 
@@ -98,6 +100,7 @@ ascoresAvg="avg-$ascores"
 # wqfmTreeSrcPath="/usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_bbv86kpqnn2f2jbh5devg0szf.argfile"
 wqfmTreeSrcPath="/usr/bin/env /home/system3/anaconda3/bin/java @/tmp/cp_bbv86kpqnn2f2jbh5devg0szf.argfile"
 wqfmTreeSrcPath="/usr/bin/env /home/system3/anaconda3/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /home/system3/.config/Code/User/workspaceStorage/30aa6bf12ee6fa01d2c267d76a0405f2/redhat.java/jdt_ws/wQFM-GDL_da4af3e7/bin"
+wqfmTreeSrcPath="/usr/bin/env /usr/lib/jvm/temurin-21-jdk-amd64/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /home/bayzid/.config/Code/User/workspaceStorage/5e76f8cb124e71174d1768e724136633/redhat.java/jdt_ws/wQFM-GDL_8414f72b/bin"
 aproSrcPath="/mnt/disk1/wqfm-tree-stuff/ASTER-Linux/bin/astral-pro3"
 # create a function
 
@@ -210,6 +213,9 @@ runWqfmTree(){
                 "$root/$file/$consensusTree" \
                 "$output_file"
             # fi
+
+            # rfScoreWqfm
+
         fi
     done
 }
@@ -485,9 +491,8 @@ runAproTrueGt(){
 # generateSqQuartets
 # runWqfm2020
 # rfScoreWqfm2020
-runDiscoAndCreateCons
+# runDiscoAndCreateCons
 runWqfmTree
-rfScoreWqfm
 # 
 # runDiscoAndCreateConsTrueGT
 # generateSqQuartetsTrueGt
@@ -500,7 +505,7 @@ rfScoreWqfm
 
 # runWqfmTreeWithSpTree
 
-# rfScoreWqfm
+rfScoreWqfm
 # rfScoreApro3
 
 
