@@ -1,11 +1,11 @@
 n=250
 n=500
 n=1000
-fileName1="${n}-gt-wqfm-tree-pro-scores.txt"
+fileName1="${n}-gt-wqfm-tree-per-node-norm.tre"
 fileName2=apro-3-scores.txt
 fileName3="${n}-gt-apro3-scores.txt"
 
-fileName=$fileName3
+fileName=$fileName1
 
 writeTo=simulated-new/scores/$fileName
 

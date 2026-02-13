@@ -7,9 +7,9 @@ if [ -z "$root" ]; then
   exit 1
 fi
 
-geneTreeLabel="merged_gene_trees.trees"
+geneTreeLabel="merged_gene_trees.resolved.tre"
 
-tree_label_suffix="-gt.tre"
+tree_label_suffix="-gt-resolved.tre"
 
 model_conditions=(
   "sim200_dup0_ILS25"
@@ -22,28 +22,16 @@ model_conditions=(
   "sim500_dup0.25_loss1"
   "sim500_dup1_ILS25"
 )
+
 model_conditions=(
     sim200_dup0_ILS70
-    sim200_dup3_loss1       
-    sim500_dup1_loss0.1 
-    sim200_dup1_ILS25    
-    sim500_dup0.25_loss0.1  
-    sim500_dup1_loss1
-    sim200_dup1_loss0.1  
-    sim500_dup0.25_loss1    
+    sim500_dup0_ILS70
+    sim500_dup1_loss0.1
     sim500_dup3_ILS25
-    sim200_dup0.25_loss0.1        
-    sim200_dup1_loss1    
-    sim500_dup0_ILS25       
     sim500_dup3_loss0.1
-    sim200_dup0.25_loss1          
-    sim200_dup3_ILS25    
-    sim500_dup0_ILS70       
     sim500_dup3_loss1
-    sim200_dup0_ILS25             
-    sim200_dup3_loss0.1  
-    sim500_dup1_ILS25
 )
+
 
 
 

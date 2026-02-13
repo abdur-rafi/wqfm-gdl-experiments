@@ -1,0 +1,42 @@
+log_parent_folder=simulated-new/duploss-logs
+
+timestamp=$(date +"%Y%m%d_%H%M%S")
+
+log_folder="$log_parent_folder/$timestamp"
+
+mkdir -p "$log_folder"
+
+
+model_conditions=(
+    # sim200_dup3_loss1       
+    # sim200_dup0_ILS70
+    # sim200_dup1_ILS25    
+    # sim200_dup1_loss0.1  
+    # sim200_dup0.25_loss0.1        
+    # sim200_dup1_loss1    
+    # sim200_dup0.25_loss1          
+    # sim200_dup3_ILS25    
+    # sim200_dup0_ILS25             
+    # sim200_dup3_loss0.1  
+    sim500_dup1_loss0.1 
+    sim500_dup0.25_loss0.1  
+    sim500_dup1_loss1
+    sim500_dup0.25_loss1    
+    sim500_dup3_ILS25
+    sim500_dup0_ILS25       
+    sim500_dup3_loss0.1
+    sim500_dup0_ILS70       
+    sim500_dup3_loss1
+    sim500_dup1_ILS25
+)
+
+
+n=$1
+
+for cond in "${model_conditions[@]}"; do
+    mkdir -p "$log_folder/$cond"
+    bash run-on-simulated-scripts/runDupLoss2.sh "simulated-new/estimated/$cond" $n > "$log_folder/$cond/run_output.log" 2> "$log_folder/$cond/run_error.log"
+
+done
+
+# bash run-on-simulated-scripts/runDisco.sh simulated-new/estimated/sim200_dup0.25_loss1 > "$log_folder/run_output.log" 2> "$log_folder/run_error.log"

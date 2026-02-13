@@ -19,6 +19,7 @@ for model_cond in $(ls $root); do
         if [ -f "$root/$model_cond/$replicate/$fileToCopy" ]; then
             echo "Copying $fileToCopy from $root/$model_cond/$replicate to $copyTo/$model_cond/$replicate"
             cp "$root/$model_cond/$replicate/$fileToCopy" "$copyTo/$model_cond/$replicate/"
+            python scripts/treeCleaner.py < "$copyTo/$model_cond/$replicate/$fileToCopy" > "$copyTo/$model_cond/$replicate/s_tree-cleaned.tre"
         else
             echo "File $fileToCopy does not exist in $root/$model_cond/$replicate, skipping."
         fi

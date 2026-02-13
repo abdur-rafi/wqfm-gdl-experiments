@@ -64,8 +64,6 @@ consensusTreeTrueGt=$consensusTreePrefixTrueGt.greedy.tree
 outputFile="e${n}00-wqfm-tree-sp.tre"
 outputFile="wqfm-tree.tre"
 outputFile="${n}-gt-wqfm-tree.tre"
-outputFile="${n}-gt-wqfm-tree-per-node-norm.tre"
-
 # outputFile="g_trees-with-gt3species-wqfm-tree.tre"
 
 outputFileApro="merged_gene_trees-apro.tre"
@@ -74,6 +72,9 @@ outputFileApro="${n}-gt-apro.tre"
 
 outputFileTrue="true-wqfm-tree-updated.tre"
 outputFileTrue="true-wqfm-tree-sp.tre"
+
+
+
 
 aproTrueOutputFile="apro_true.tre"
 # wqfm2020OutputFile="e${n}00-wqfm-2020-norm-perTree.tre"
@@ -87,8 +88,6 @@ wscores="e${n}00_wqfm_scores_updated.txt"
 wscores="e${n}00_wqfm_tree_sp.txt"
 wscores="wqfm-tree-pro-scores.txt"
 wscores="${n}-gt-wqfm-tree-pro-scores.txt"
-wscores="${n}-gt-wqfm-tree-pro-per-node-norm-scores.txt"
-
 
 ascores="apro-3-scores.txt"
 ascores="${n}-gt-apro3-scores.txt"
@@ -108,7 +107,6 @@ ascoresAvg="avg-$ascores"
 
 # wqfmTreeSrcPath="/usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_bbv86kpqnn2f2jbh5devg0szf.argfile"
 wqfmTreeSrcPath="/usr/bin/env /home/system3/anaconda3/bin/java @/tmp/cp_bbv86kpqnn2f2jbh5devg0szf.argfile"
-wqfmTreeSrcPath="/usr/bin/env /usr/lib/jvm/temurin-21-jdk-amd64/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /home/bayzid/.config/Code/User/workspaceStorage/5e76f8cb124e71174d1768e724136633/redhat.java/jdt_ws/wQFM-GDL_8414f72b/bin"
 aproSrcPath="/mnt/disk1/wqfm-tree-stuff/ASTER-Linux/bin/astral-pro3"
 # create a function
 
@@ -489,8 +487,10 @@ runAproTrueGt(){
 
 
 
-# runWqfmTree
-# runApro3
+
+
+runWqfmTree
+runApro3
 # generateSqQuartets
 # runWqfm2020
 # rfScoreWqfm2020
@@ -510,7 +510,7 @@ runAproTrueGt(){
 # runWqfmTreeWithSpTree
 
 rfScoreWqfm
-# rfScoreApro3
+rfScoreApro3
 
 
 # runWqfmTreeTrueGtWithSp

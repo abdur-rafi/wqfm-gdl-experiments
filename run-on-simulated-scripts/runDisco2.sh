@@ -46,7 +46,7 @@ discoNoDecompCleaned="${n}-gt-disco-rooted-cleaned.tre"
 
 consensusTreePrefix="e${n}00-consensus"
 consensusTreePrefix=merged_gene_trees-consensus
-consensusTreePrefix=g_trees-with-gt3species-consensus
+consensusTreePrefix="${n}-cons"
 consensusTree=$consensusTreePrefix.greedy.tree
 consensusTree="${n}-cons.greedy.tree"
 
@@ -115,6 +115,7 @@ aproSrcPath="/mnt/disk1/wqfm-tree-stuff/ASTER-Linux/bin/astral-pro3"
 
 runDiscoAndCreateCons() {
     for file in $(ls "$root"); do
+    
         if [ -d "$root/$file" ]; then
             echo "$file"
 
@@ -488,13 +489,17 @@ runAproTrueGt(){
 }
 
 
+echo "Starting Disco and subsequent analyses..."
+echo "Root directory: $root"
+echo "Number of genes: $n"
+
 
 # runWqfmTree
 # runApro3
 # generateSqQuartets
 # runWqfm2020
 # rfScoreWqfm2020
-# runDiscoAndCreateCons
+runDiscoAndCreateCons
 # runWqfmTree
 # rfScoreWqfm
 # 
@@ -509,7 +514,7 @@ runAproTrueGt(){
 
 # runWqfmTreeWithSpTree
 
-rfScoreWqfm
+# rfScoreWqfm
 # rfScoreApro3
 
 
