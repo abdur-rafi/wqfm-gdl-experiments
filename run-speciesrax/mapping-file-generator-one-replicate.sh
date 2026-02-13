@@ -40,7 +40,7 @@ if ! command -v python3 >/dev/null 2>&1; then
 fi
 
 for i in $(seq -f "%04g" 1 1000); do
-	input_file="$rep_path/est_g_trees${i}.trees"
+	input_file="$rep_path/est_g_trees${i}.trees.resolved"
 	output_file="$out_dir/${i}-mapping.link"
 
 	if [ ! -f "$input_file" ]; then

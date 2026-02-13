@@ -43,7 +43,9 @@ fi
 
 # Iterate over replicate directories inside the model condition folder
 shopt -s nullglob
-for rep_path in "$model_cond_path"/*; do
+for i in $(seq -f "%02g" 1 50); do
+# for rep_path in "$model_cond_path"/*; do
+  rep_path="$model_cond_path/$i"
   [ -d "$rep_path" ] || continue
   rep_name="$(basename "$rep_path")"
 

@@ -55,7 +55,7 @@ output_file="$out_dir/families-file.txt"
 echo "[FAMILIES] " >> "$output_file"
 
 for i in $(seq -f "%04g" 1 1000); do
-	input_file="$rep_path/est_g_trees${i}.trees"
+	input_file="$rep_path/est_g_trees${i}.trees.resolved"
 
 	# if [ ! -f "$input_file" ]; then
 	# 	echo "Warning: input not found: $input_file — skipping"
@@ -64,7 +64,7 @@ for i in $(seq -f "%04g" 1 1000); do
 
     # Append to the families file
     echo "- $i " >> "$output_file"
-    echo "starting_gene_tree = $rep_path/est_g_trees${i}.trees_cleaned.tree.resolved" >> "$output_file"
+    echo "starting_gene_tree = $rep_path/est_g_trees${i}.trees.resolved" >> "$output_file"
     echo "mapping = $link_dir/${i}-mapping.link " >> "$output_file"
 
 	# echo "Processing: $input_file -> $output_file"

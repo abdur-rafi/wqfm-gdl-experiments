@@ -34,8 +34,8 @@ model_conditions=(
     # sim200_dup0_ILS70
     # sim200_dup1_ILS25    
     # sim200_dup1_loss0.1  
-    sim200_dup0.25_loss0.1        
-    # sim200_dup0.25_loss1          
+    # sim200_dup0.25_loss0.1        
+    sim200_dup0.25_loss1          
     # sim200_dup3_ILS25    
     # sim200_dup1_loss1    
     # sim200_dup0_ILS25             
@@ -51,7 +51,6 @@ model_conditions=(
     # sim500_dup3_loss1
     # sim500_dup1_ILS25
 )
-
 
 n=$1
 

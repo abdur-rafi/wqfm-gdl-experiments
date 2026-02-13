@@ -11,7 +11,7 @@ if [ "$#" -ne 2 ]; then
 	usage
 fi
 
-cores=8
+cores=16
 generax=GeneRax/build/bin/generax
 families="$1"
 output="$2"
@@ -26,6 +26,11 @@ fi
 if [ ! -x "$generax" ]; then
 	echo "Error: generax binary not found or not executable: $generax" >&2
 	exit 1
+fi
+
+if [ -d "$output/reconciliations" ]; then 
+	echo "Skipping. $output/reconciliations already exists"
+	exit 0
 fi
 
 mpiexec -np "$cores" "$generax" \
