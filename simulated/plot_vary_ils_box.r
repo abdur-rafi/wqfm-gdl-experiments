@@ -15,7 +15,7 @@ selected_loss <- c("1")
 # Harmonize factor ordering with line-plot script
 box_df <- box_df %>%
   mutate(
-    Method = factor(Method, levels = c("apro3", "wqfm-gdl"), labels = c(
+    Method = factor(Method, levels = c("Apro-3", "wQFM-GDL-T"), labels = c(
       "Astral-Pro3", "wQFM-GDL-T"
     )),
     loss = factor(loss, levels = c("0.1", "1")),
@@ -53,3 +53,5 @@ p_box <- ggplot(box_df_filtered, aes(x = ils, y = Error, fill = Method)) +
   )
 
 print(p_box)
+
+ggsave("plot_vary_ils_box.pdf", plot = p_box)

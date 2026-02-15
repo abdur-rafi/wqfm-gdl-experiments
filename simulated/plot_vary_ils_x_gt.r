@@ -1,0 +1,57 @@
+library(ggplot2)
+library(dplyr)
+library(readr)
+
+# Control parameter for number of taxa
+n_taxa <- 200  # Change to 200 or 500 as needed
+
+# Load data (must include columns: Method, loss, gt, dup, Error, Replicate)
+df <- read_csv("merged_for_plot.csv")
+
+selected_taxa <- c(paste0("Taxa: ", n_taxa))
+selected_ils <- c("ILS: 25%", "ILS: 70%")
+selected_dup <- c("dup: 0", "dup: 1", "dup: 3")
+selected_loss <- c("1")
+
+# Factor ordering for nicer layout
+df <- df %>%
+  mutate(
+    Method = factor(Method, levels = c("Apro-3", "wQFM-GDL-T", "Species-Rax"), labels = c(
+      "Astral-Pro3", "wQFM-GDL-T", "Species-Rax"
+    )),
+    loss = factor(loss, levels = c("0.1", "1")),
+    dup = factor(dup, levels = c("0", "0.25", "1", "3"),
+                 labels = c("dup: 0", "dup: 0.25", "dup: 1", "dup: 3")),
+    gt = factor(gt, levels = c("250", "500", "1000")),
+    ils = factor(ils, levels = c("25", "70"),
+                 labels = c("ILS: 25%", "ILS: 70%")),
+    taxa = factor(taxa, levels = c("200", "500"),
+                  labels = c("Taxa: 200", "Taxa: 500"))
+  )
+
+df_filtered <- df %>%
+  filter(taxa %in% selected_taxa,
+         ils %in% selected_ils,
+         dup %in% selected_dup,
+         loss %in% selected_loss)
+
+# Plot
+p <- ggplot(df_filtered, aes(x = gt, y = Error, color = Method, group = Method)) +
+  stat_summary(geom = "line", fun.data = mean_se) +
+  stat_summary(geom = "errorbar", fun.data = mean_se, width = 0.22) +
+  stat_summary(geom = "point", fun.data = mean_se, size = 1) +
+  facet_grid(ils ~ dup, scales = "free_x", space = "free_x") +
+  scale_color_brewer(palette = "Set2", name = "") +
+  scale_y_continuous(labels = scales::percent) +
+  labs(
+    x = "# Gene trees",
+    y = "Species tree error (NRF)"
+  ) +
+  theme_classic() +
+  theme(
+    legend.position = "bottom",
+    panel.border = element_rect(fill = NA, size = 1)
+  )
+
+print(p)
+ggsave(paste0("./plots/plot_vary_ils_x_gt_", n_taxa, "taxa.pdf"), plot = p)

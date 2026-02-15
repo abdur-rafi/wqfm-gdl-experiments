@@ -6,6 +6,10 @@ import re
 input_dir = "./csv_files/"
 output_file = "merged_for_plot.csv"
 
+# List of filenames (not paths) to exclude from merging
+# By default we exclude the output file to avoid re-reading it if present
+exclude_files = ["wQMC_100bp.csv", "wQMC_500bp.csv"]
+
 # Function to extract metadata from column names
 def parse_column(col_name):
     """
@@ -50,6 +54,10 @@ all_data = []
 
 for file in os.listdir(input_dir):
     if not file.endswith(".csv"):
+        continue
+    # skip excluded files
+    if file in exclude_files:
+        print(f"Skipping excluded file: {file}")
         continue
 
     filepath = os.path.join(input_dir, file)

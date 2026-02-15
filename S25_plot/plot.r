@@ -2,13 +2,19 @@ library(ggplot2)
 library(dplyr)
 library(readr)
 
+# Define methods to include in analysis (modify here only)
+methods <- c("wQFM-G-Q", "wQFM-G-T", "APro3", "Species-rax", "DupLoss2")
+# methods <- c("wQFM-G-Q", "wQFM-G-T", "APro3", "Species-rax")
+# methods <- c("wQFM-G-Q", "wQFM-G-T", "APro3")
+
 # 1. Read your merged CSV file (output from Python script or manually created)
 df <- read_csv("merged_for_plot.csv")
 
 # 2. Ensure factors are correctly ordered for consistent plotting
 df <- df %>%
+  filter(Method %in% methods) %>%
   mutate(
-    Method = factor(Method, levels = c("wQFM", "wQMC")),
+    Method = factor(Method, levels = methods),
     DupRate = factor(DupRate, levels = c("0", "0.2", "1", "2", "5")),
     InputType = factor(InputType, levels = c("Input: Est. (100bp)",
                                              "Input: Est. (500bp)"))
@@ -32,7 +38,8 @@ p <- ggplot(summary_df, aes(x = LossRate, y = mean_error, color = Method, group 
   geom_errorbar(aes(ymin = mean_error - se_error,
                     ymax = mean_error + se_error), width = 0.22) +
   geom_point(size = 1) +
-  facet_grid(InputType ~ DupRate, scales = "free_x", space = "free_x") +
+  facet_grid(InputType ~ DupRate, scales = "free_x", space = "free_x",
+             labeller = labeller(DupRate = function(x) ifelse(x == "0", x, paste("Dup:", x)))) +
   scale_color_brewer(palette = "Set2", name = "") +
   scale_y_continuous(labels = scales::percent) +
   labs(x = "Loss/Dup rate", y = "Species tree error (NRF)") +
@@ -43,3 +50,4 @@ p <- ggplot(summary_df, aes(x = LossRate, y = mean_error, color = Method, group 
   )
 
 print(p)
+ggsave("./plots/plot_dup_wqfm_apro_sprax_duploss2.pdf", plot = p)
